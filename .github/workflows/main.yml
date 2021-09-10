@@ -21,7 +21,7 @@ jobs:
           if [ $status -eq 0 ]; then
             echo $response > $FILE
             echo "$FILE saved."
-            echo `date +"%Y%m%d"` >> ./docs/assets/data.txt
+            echo `date +"%Y%m%d"` >> ./data.txt
           else
             echo "curl exit code: ($status) $response"
             exit $status
