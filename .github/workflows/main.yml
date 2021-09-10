@@ -8,9 +8,22 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: pwd
-    - name: Run a multi-line script
+    - name: Save data
       run: |
-        ls
-        git status
+        FILE=./`date +"%Y-%m-%d"`.json
+        if [ -f "$FILE" ]; then
+          echo "$FILE exists. Done for today."
+        else
+          echo "Get today's data"
+          url=https://dati.comune.milano.it/dataset/e340a8c6-b68b-49e8-9569-910f31865489/resource/edf8dcee-c1f4-41fe-957e-c7cd16f366c9/download/qaria_datoariagiornostazione_`date +"%Y-%m-%d"`.json
+          response=$(curl -f "$url")
+          status=$?
+          if [ $status -eq 0 ]; then
+            echo $response > $FILE
+            echo "$FILE saved."
+            echo `date +"%Y%m%d"` >> ./docs/assets/data.txt
+          else
+            echo "curl exit code: ($status) $response"
+            exit $status
+          fi
+        fi
