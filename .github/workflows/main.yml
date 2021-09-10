@@ -39,7 +39,7 @@ jobs:
           git commit -a -m "Add new daily data."
           git remote rm origin
           git remote add origin https://fabiovalse:$PUSH_TOKEN@github.com/fabiovalse/data-collector.git
-          git push origin HEAD:master
+          git push origin HEAD:main
         else
           echo 'unable to detech changes'
         fi
