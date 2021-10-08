@@ -1,9 +1,9 @@
 name: CI
 
-on: [push]
-#  on:  
-#    schedule:    
-#      - cron: 0 8,12,20 * * *
+# on: [push]
+on:  
+  schedule:    
+    - cron: 0 8,12,20 * * *
 
 jobs:
   build:
@@ -26,7 +26,6 @@ jobs:
           if [ $status -eq 0 ]; then
             echo $response > $FILE
             echo "$FILE saved."
-            echo `date +"%Y%m%d"` >> ./data.txt
           else
             echo "curl exit code: ($status) $response"
             exit $status
