@@ -20,7 +20,7 @@ jobs:
           echo "$FILE exists. Done for today."
         else
           echo "Get today's data"
-          url=api.openweathermap.org/data/2.5/weather?q=Milan&appid=$OPEN_WEATHER_API_KEY
+          url=https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=$OPEN_WEATHER_API_KEY
           response=$(curl -f "$url")
           status=$?
           if [ $status -eq 0 ]; then
