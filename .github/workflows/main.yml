@@ -3,7 +3,7 @@ name: CI
 # on: [push]
 on:  
   schedule:    
-    - cron: 0 8,13,19 * * *
+    - cron: 0 13 * * *
 
 jobs:
   build:
