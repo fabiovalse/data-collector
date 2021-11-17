@@ -1,9 +1,9 @@
 name: CI
 
-# on: [push]
-on:  
- schedule:    
-   - cron: 0 6,12,18 * * *
+on: [push]
+#on:  
+# schedule:    
+#   - cron: 0 6,12,18 * * *
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       env:
         OPEN_WEATHER_API_KEY: ${{ secrets.OPEN_WEATHER_API_KEY }} 
       run: |
-        FILE=./milan_`date +"%Y-%m-%d_%H"`.json
+        FILE=./`date +"%Y/%m/milan_%Y-%m-%d_%H"`.json
         if [ -f "$FILE" ]; then
           echo "$FILE exists. Done for today."
         else
