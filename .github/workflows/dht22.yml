@@ -42,7 +42,7 @@ jobs:
         git config user.name "fabiovalse"
         if [[ `git status --porcelain` ]]; then
           git add .
-          git commit -a -m "Add new daily data."
+          git commit -a -m "Add new dht22 data."
           git remote rm origin
           git remote add origin https://fabiovalse:$PUSH_TOKEN@github.com/fabiovalse/data-collector.git
           git push origin HEAD:main
