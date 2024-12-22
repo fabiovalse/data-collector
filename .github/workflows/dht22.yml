@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Save data
       env:
-        APIURL: ${{ secrets.APIURL }} 
+        API_URL: ${{ secrets.DHT22_API_URL }} 
       run: |
         mkdir -p $(date +"dht22/%Y/%m")
         FILE=./`date +"dht22/%Y/%m/dht22_%Y-%m-%d_%H"`.json
@@ -21,7 +21,7 @@ jobs:
           echo "$FILE exists. Done for today."
         else
           echo "Get today's data"
-          url="$APIURL"
+          url="$API_URL"
           response=$(curl -f "$url")
           status=$?
           if [ $status -eq 0 ]; then
