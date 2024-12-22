@@ -1,0 +1,50 @@
+name: CI
+
+# on: [push]
+on:  
+  schedule:    
+    - cron: 0 * * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - name: Save data
+      env:
+        APIURL: ${{ secrets.APIURL }} 
+      run: |
+        mkdir -p $(date +"dht22/%Y/%m")
+        FILE=./`date +"dht22/%Y/%m/dht22_%Y-%m-%d_%H"`.json
+        if [ -f "$FILE" ]; then
+          echo "$FILE exists. Done for today."
+        else
+          echo "Get today's data"
+          url="$APIURL"
+          response=$(curl -f "$url")
+          status=$?
+          if [ $status -eq 0 ]; then
+            echo $response > $FILE
+            echo "$FILE saved."
+          else
+            echo "curl exit code: ($status) $response"
+            exit $status
+          fi
+        fi
+    - name: git check in
+      env:
+        GIT_OWNER_EMAIL: ${{ secrets.GIT_OWNER_EMAIL }} 
+        PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
+      run: |
+        git config user.email "$GIT_OWNER_EMAIL"
+        git config user.name "fabiovalse"
+        if [[ `git status --porcelain` ]]; then
+          git add .
+          git commit -a -m "Add new daily data."
+          git remote rm origin
+          git remote add origin https://fabiovalse:$PUSH_TOKEN@github.com/fabiovalse/data-collector.git
+          git push origin HEAD:main
+        else
+          echo 'unable to detech changes'
+        fi
