@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TH</title>
+  <style>
+    body {
+      font-family: monospace;
+      color: #303030;
+      letter-spacing: -4px;
+    }
+
+    .panel {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .temperature {
+      font-size: 25vw;
+    }
+    .temperature .decimal {
+      font-size: 10vw;
+    }
+
+    .humidity {
+      font-size: 10vw;
+      
+    }
+  </style>
+</head>
+<body>
+  <script src="index.js"></script>
+
+  <div class="panel">
+    <div class="temperature">
+      <span id="temperature">
+      </span><span class="decimal">.<span id="temperature-decimal">
+      </span>&deg;C
+      </span>
+    </div>
+    
+    <div  class="humidity">
+      <span id="humidity"></span>%
+    </div>
+  </div>
+</body>
+</html>
