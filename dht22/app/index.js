@@ -15,7 +15,7 @@ function getData(newHours) {
   const year = date.getFullYear()
   const month = date.getUTCMonth() + 1
   const day = date.getUTCDate()
-  const hours = newHours || date.getUTCHours()
+  const hours = (newHours || date.getUTCHours()).toString().padStart(2, '0')
 
   const fileName =`${year}/${month}/dht22_${year}-${month}-${day}_${hours}.json`;
   const url = `https://raw.githubusercontent.com/fabiovalse/data-collector/refs/heads/main/dht22/${fileName}`;
