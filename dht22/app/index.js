@@ -13,8 +13,8 @@ function getData(newHours) {
   const date = new Date();
 
   const year = date.getFullYear()
-  const month = date.getUTCMonth() + 1
-  const day = date.getUTCDate()
+  const month = (date.getUTCMonth() + 1).toString().padStart(2, '0')
+  const day = (date.getUTCDate()).toString().padStart(2, '0')
   const hours = (newHours || date.getUTCHours()).toString().padStart(2, '0')
 
   const fileName =`${year}/${month}/dht22_${year}-${month}-${day}_${hours}.json`;
