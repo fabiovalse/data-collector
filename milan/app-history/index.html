@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Milan Weather Wheel</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <div id="controls">
+      <button class="year-btn active" data-year="all">All</button>
+      <button class="year-btn" data-year="2026">2026</button>
+      <button class="year-btn" data-year="2025">2025</button>
+      <button class="year-btn" data-year="2024">2024</button>
+      <button class="year-btn" data-year="2023">2023</button>
+      <button class="year-btn" data-year="2022">2022</button>
+      <button class="year-btn" data-year="2021">2021</button>
+    </div>
+    <div id="chart-container">
+      <svg id="wheel"></svg>
+    </div>
+    <div id="tooltip"></div>
+    <script src="wheel.js"></script>
+  </body>
+</html>

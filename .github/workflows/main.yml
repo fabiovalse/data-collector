@@ -32,6 +32,8 @@ jobs:
             exit $status
           fi
         fi
+    - name: Rebuild Milan visualization data
+      run: node milan/app-history/build-data.js
     - name: git check in
       env:
         GIT_OWNER_EMAIL: ${{ secrets.GIT_OWNER_EMAIL }} 

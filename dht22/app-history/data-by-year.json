@@ -1,0 +1,5018 @@
+{
+  "2024": [
+    {
+      "date": "2024-12-22",
+      "minTemp": 20,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 20.1,
+      "minHumidity": 43.400001525878906,
+      "maxHumidity": 44.79999923706055,
+      "meanHumidity": 44.1,
+      "readings": 9
+    },
+    {
+      "date": "2024-12-23",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.5,
+      "meanTemp": 20.2,
+      "minHumidity": 37.900001525878906,
+      "maxHumidity": 43.599998474121094,
+      "meanHumidity": 41,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-24",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20.899999618530273,
+      "meanTemp": 20.4,
+      "minHumidity": 33.70000076293945,
+      "maxHumidity": 41.79999923706055,
+      "meanHumidity": 37.9,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-25",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 33.099998474121094,
+      "maxHumidity": 38,
+      "meanHumidity": 34.5,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-26",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 20.3,
+      "minHumidity": 32.20000076293945,
+      "maxHumidity": 34.099998474121094,
+      "meanHumidity": 32.7,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-27",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 20.2,
+      "minHumidity": 32.20000076293945,
+      "maxHumidity": 41.900001525878906,
+      "meanHumidity": 35.8,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-28",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 20.4,
+      "minHumidity": 34.599998474121094,
+      "maxHumidity": 38,
+      "meanHumidity": 36.3,
+      "readings": 19
+    },
+    {
+      "date": "2024-12-29",
+      "minTemp": 17.600000381469727,
+      "maxTemp": 20.5,
+      "meanTemp": 20.1,
+      "minHumidity": 31.700000762939453,
+      "maxHumidity": 45,
+      "meanHumidity": 38.5,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-30",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 37.79999923706055,
+      "maxHumidity": 41.20000076293945,
+      "meanHumidity": 39.1,
+      "readings": 23
+    },
+    {
+      "date": "2024-12-31",
+      "minTemp": 20,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.5,
+      "minHumidity": 36.5,
+      "maxHumidity": 39.29999923706055,
+      "meanHumidity": 37.4,
+      "readings": 23
+    }
+  ],
+  "2025": [
+    {
+      "date": "2025-01-01",
+      "minTemp": 20,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.3,
+      "minHumidity": 35.79999923706055,
+      "maxHumidity": 37.79999923706055,
+      "meanHumidity": 36.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-02",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 20.1,
+      "minHumidity": 37.79999923706055,
+      "maxHumidity": 38.79999923706055,
+      "meanHumidity": 38.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-03",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 35.70000076293945,
+      "maxHumidity": 39,
+      "meanHumidity": 37.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-04",
+      "minTemp": 20,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.1,
+      "minHumidity": 36.400001525878906,
+      "maxHumidity": 38.599998474121094,
+      "meanHumidity": 37.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-05",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.100000381469727,
+      "meanTemp": 19.9,
+      "minHumidity": 35.900001525878906,
+      "maxHumidity": 37.400001525878906,
+      "meanHumidity": 36.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-06",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20,
+      "meanTemp": 19.7,
+      "minHumidity": 37.400001525878906,
+      "maxHumidity": 39.29999923706055,
+      "meanHumidity": 38.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-07",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 20,
+      "meanTemp": 19.6,
+      "minHumidity": 39.400001525878906,
+      "maxHumidity": 60.5,
+      "meanHumidity": 43.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-01-08",
+      "minTemp": 19.5,
+      "maxTemp": 19.799999237060547,
+      "meanTemp": 19.7,
+      "minHumidity": 44.900001525878906,
+      "maxHumidity": 52.29999923706055,
+      "meanHumidity": 47.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-09",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 19.9,
+      "minHumidity": 45.900001525878906,
+      "maxHumidity": 51.79999923706055,
+      "meanHumidity": 48.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-01-10",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20.5,
+      "meanTemp": 20.1,
+      "minHumidity": 42.29999923706055,
+      "maxHumidity": 48.400001525878906,
+      "meanHumidity": 45.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-11",
+      "minTemp": 20,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.2,
+      "minHumidity": 42.29999923706055,
+      "maxHumidity": 45.099998474121094,
+      "meanHumidity": 44.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-12",
+      "minTemp": 19.5,
+      "maxTemp": 20.5,
+      "meanTemp": 20,
+      "minHumidity": 35,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 40.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-13",
+      "minTemp": 19.5,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 19.9,
+      "minHumidity": 35.099998474121094,
+      "maxHumidity": 42.400001525878906,
+      "meanHumidity": 38.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-14",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 19.799999237060547,
+      "meanTemp": 19.5,
+      "minHumidity": 36.099998474121094,
+      "maxHumidity": 38,
+      "meanHumidity": 36.9,
+      "readings": 10
+    },
+    {
+      "date": "2025-01-15",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 19.9,
+      "minHumidity": 37.599998474121094,
+      "maxHumidity": 41.400001525878906,
+      "meanHumidity": 39,
+      "readings": 10
+    },
+    {
+      "date": "2025-01-16",
+      "minTemp": 19.200000762939453,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 19.8,
+      "minHumidity": 36.79999923706055,
+      "maxHumidity": 44.900001525878906,
+      "meanHumidity": 39.7,
+      "readings": 18
+    },
+    {
+      "date": "2025-01-17",
+      "minTemp": 18.700000762939453,
+      "maxTemp": 19.899999618530273,
+      "meanTemp": 19.6,
+      "minHumidity": 32.70000076293945,
+      "maxHumidity": 38.70000076293945,
+      "meanHumidity": 37.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-18",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 20,
+      "meanTemp": 19.7,
+      "minHumidity": 36.400001525878906,
+      "maxHumidity": 40.900001525878906,
+      "meanHumidity": 37.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-19",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20,
+      "meanTemp": 19.8,
+      "minHumidity": 39.599998474121094,
+      "maxHumidity": 43.20000076293945,
+      "meanHumidity": 41,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-20",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 19.9,
+      "minHumidity": 42,
+      "maxHumidity": 66.4000015258789,
+      "meanHumidity": 47.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-21",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.5,
+      "meanTemp": 20.1,
+      "minHumidity": 48.20000076293945,
+      "maxHumidity": 64.0999984741211,
+      "meanHumidity": 53.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-01-22",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 20.3,
+      "minHumidity": 46.79999923706055,
+      "maxHumidity": 53.5,
+      "meanHumidity": 50.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-23",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 20.5,
+      "meanTemp": 20.3,
+      "minHumidity": 47.599998474121094,
+      "maxHumidity": 52.79999923706055,
+      "meanHumidity": 49.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-24",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.899999618530273,
+      "meanTemp": 20.3,
+      "minHumidity": 44,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 45.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-25",
+      "minTemp": 20,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.2,
+      "minHumidity": 44,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 46.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-26",
+      "minTemp": 20,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.3,
+      "minHumidity": 47.29999923706055,
+      "maxHumidity": 55,
+      "meanHumidity": 50.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-27",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.4,
+      "minHumidity": 49.900001525878906,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 50.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-28",
+      "minTemp": 19.399999618530273,
+      "maxTemp": 20.5,
+      "meanTemp": 20.3,
+      "minHumidity": 48.400001525878906,
+      "maxHumidity": 52.5,
+      "meanHumidity": 50.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-29",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 21,
+      "meanTemp": 20.6,
+      "minHumidity": 45.79999923706055,
+      "maxHumidity": 65.9000015258789,
+      "meanHumidity": 52.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-30",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 21,
+      "meanTemp": 20.7,
+      "minHumidity": 48.79999923706055,
+      "maxHumidity": 63.599998474121094,
+      "meanHumidity": 53.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-01-31",
+      "minTemp": 20.5,
+      "maxTemp": 20.899999618530273,
+      "meanTemp": 20.6,
+      "minHumidity": 46.400001525878906,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 49.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-01",
+      "minTemp": 20.5,
+      "maxTemp": 21,
+      "meanTemp": 20.7,
+      "minHumidity": 50.29999923706055,
+      "maxHumidity": 55.20000076293945,
+      "meanHumidity": 52,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-02",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.8,
+      "minHumidity": 46.900001525878906,
+      "maxHumidity": 52,
+      "meanHumidity": 49.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-03",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.2,
+      "minHumidity": 48.20000076293945,
+      "maxHumidity": 54.20000076293945,
+      "meanHumidity": 50.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-04",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.9,
+      "minHumidity": 42,
+      "maxHumidity": 49,
+      "meanHumidity": 45.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-05",
+      "minTemp": 20.5,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.9,
+      "minHumidity": 41.79999923706055,
+      "maxHumidity": 43.900001525878906,
+      "meanHumidity": 43,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-06",
+      "minTemp": 19.5,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 20.8,
+      "minHumidity": 29.5,
+      "maxHumidity": 43,
+      "meanHumidity": 40.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-07",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 21,
+      "meanTemp": 20.6,
+      "minHumidity": 36.900001525878906,
+      "maxHumidity": 44.29999923706055,
+      "meanHumidity": 40.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-08",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 41.29999923706055,
+      "maxHumidity": 49.400001525878906,
+      "meanHumidity": 44.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-09",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.1,
+      "minHumidity": 44.599998474121094,
+      "maxHumidity": 52.29999923706055,
+      "meanHumidity": 46.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-10",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.2,
+      "minHumidity": 47.20000076293945,
+      "maxHumidity": 50.29999923706055,
+      "meanHumidity": 48.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-11",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.5,
+      "meanTemp": 20.3,
+      "minHumidity": 47,
+      "maxHumidity": 47.900001525878906,
+      "meanHumidity": 47.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-12",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 20.600000381469727,
+      "meanTemp": 20.4,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 48,
+      "meanHumidity": 47.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-13",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.6,
+      "minHumidity": 46.599998474121094,
+      "maxHumidity": 47.70000076293945,
+      "meanHumidity": 47.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-14",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 21,
+      "meanTemp": 20.6,
+      "minHumidity": 41,
+      "maxHumidity": 46.20000076293945,
+      "meanHumidity": 44.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-15",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 20.5,
+      "minHumidity": 38.79999923706055,
+      "maxHumidity": 52.5,
+      "meanHumidity": 44,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-16",
+      "minTemp": 20,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.3,
+      "minHumidity": 41,
+      "maxHumidity": 49.79999923706055,
+      "meanHumidity": 45,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-17",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 20,
+      "minHumidity": 38,
+      "maxHumidity": 41.29999923706055,
+      "meanHumidity": 39.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-18",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20,
+      "meanTemp": 19.8,
+      "minHumidity": 37.900001525878906,
+      "maxHumidity": 43.5,
+      "meanHumidity": 39.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-19",
+      "minTemp": 19.399999618530273,
+      "maxTemp": 19.799999237060547,
+      "meanTemp": 19.6,
+      "minHumidity": 34.400001525878906,
+      "maxHumidity": 39.5,
+      "meanHumidity": 35.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-20",
+      "minTemp": 19.399999618530273,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20,
+      "minHumidity": 34.599998474121094,
+      "maxHumidity": 42.099998474121094,
+      "meanHumidity": 39.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-21",
+      "minTemp": 18.799999237060547,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.2,
+      "minHumidity": 38.400001525878906,
+      "maxHumidity": 44.5,
+      "meanHumidity": 40.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-22",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.4,
+      "minHumidity": 41.20000076293945,
+      "maxHumidity": 47.900001525878906,
+      "meanHumidity": 43.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-23",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.6,
+      "minHumidity": 45,
+      "maxHumidity": 67.30000305175781,
+      "meanHumidity": 49.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-24",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.7,
+      "minHumidity": 52.599998474121094,
+      "maxHumidity": 67.5999984741211,
+      "meanHumidity": 57.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-25",
+      "minTemp": 21,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.2,
+      "minHumidity": 51.400001525878906,
+      "maxHumidity": 57.400001525878906,
+      "meanHumidity": 53.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-26",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.5,
+      "minHumidity": 50.099998474121094,
+      "maxHumidity": 55.599998474121094,
+      "meanHumidity": 52.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-27",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 21.7,
+      "minHumidity": 45.099998474121094,
+      "maxHumidity": 54.599998474121094,
+      "meanHumidity": 48.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-02-28",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 41.599998474121094,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 45.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-01",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 35.29999923706055,
+      "maxHumidity": 48.79999923706055,
+      "meanHumidity": 44.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-02",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 22,
+      "meanTemp": 21.5,
+      "minHumidity": 37.29999923706055,
+      "maxHumidity": 48.29999923706055,
+      "meanHumidity": 44.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-03",
+      "minTemp": 21.5,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.9,
+      "minHumidity": 41.20000076293945,
+      "maxHumidity": 46.900001525878906,
+      "meanHumidity": 43.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-03-04",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.5,
+      "meanTemp": 22,
+      "minHumidity": 31.5,
+      "maxHumidity": 43.099998474121094,
+      "meanHumidity": 39.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-05",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.5,
+      "meanTemp": 22.2,
+      "minHumidity": 38.20000076293945,
+      "maxHumidity": 41.900001525878906,
+      "meanHumidity": 39.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-06",
+      "minTemp": 22,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 30.799999237060547,
+      "maxHumidity": 42.099998474121094,
+      "meanHumidity": 38,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-07",
+      "minTemp": 21.5,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.2,
+      "minHumidity": 27.200000762939453,
+      "maxHumidity": 40.79999923706055,
+      "meanHumidity": 36.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-08",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 23,
+      "meanTemp": 22.5,
+      "minHumidity": 36.099998474121094,
+      "maxHumidity": 46.29999923706055,
+      "meanHumidity": 40.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-03-09",
+      "minTemp": 21.5,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.2,
+      "minHumidity": 33.599998474121094,
+      "maxHumidity": 44.400001525878906,
+      "meanHumidity": 41.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-10",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 21.9,
+      "minHumidity": 43.5,
+      "maxHumidity": 48.400001525878906,
+      "meanHumidity": 45.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-11",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.9,
+      "minHumidity": 46.599998474121094,
+      "maxHumidity": 50.79999923706055,
+      "meanHumidity": 47.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-12",
+      "minTemp": 21.5,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 46.5,
+      "maxHumidity": 51,
+      "meanHumidity": 48.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-13",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 42.70000076293945,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 47,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-14",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 22,
+      "minHumidity": 46.20000076293945,
+      "maxHumidity": 50.5,
+      "meanHumidity": 47.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-15",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 48.900001525878906,
+      "maxHumidity": 58.5,
+      "meanHumidity": 52.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-16",
+      "minTemp": 21.5,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 40.79999923706055,
+      "maxHumidity": 54.79999923706055,
+      "meanHumidity": 46.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-17",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.7,
+      "minHumidity": 38.79999923706055,
+      "maxHumidity": 44.900001525878906,
+      "meanHumidity": 42.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-18",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.2,
+      "minHumidity": 30.899999618530273,
+      "maxHumidity": 44.20000076293945,
+      "meanHumidity": 37.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-19",
+      "minTemp": 18.299999237060547,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21,
+      "minHumidity": 26.600000381469727,
+      "maxHumidity": 38.20000076293945,
+      "meanHumidity": 34.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-20",
+      "minTemp": 21,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.5,
+      "minHumidity": 34.5,
+      "maxHumidity": 37.400001525878906,
+      "meanHumidity": 35.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-21",
+      "minTemp": 21.5,
+      "maxTemp": 22,
+      "meanTemp": 21.7,
+      "minHumidity": 37.79999923706055,
+      "maxHumidity": 44.5,
+      "meanHumidity": 40.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-22",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 43.599998474121094,
+      "maxHumidity": 49.79999923706055,
+      "meanHumidity": 46.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-23",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 22,
+      "meanTemp": 21.7,
+      "minHumidity": 49,
+      "maxHumidity": 56.099998474121094,
+      "meanHumidity": 52.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-03-24",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22.1,
+      "minHumidity": 48.099998474121094,
+      "maxHumidity": 53,
+      "meanHumidity": 50.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-03-25",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 50.099998474121094,
+      "meanHumidity": 47.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-26",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.6,
+      "minHumidity": 42.099998474121094,
+      "maxHumidity": 49.29999923706055,
+      "meanHumidity": 46.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-27",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.7,
+      "minHumidity": 45.70000076293945,
+      "maxHumidity": 45.70000076293945,
+      "meanHumidity": 45.7,
+      "readings": 1
+    },
+    {
+      "date": "2025-03-28",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 23,
+      "meanTemp": 22.7,
+      "minHumidity": 31.100000381469727,
+      "maxHumidity": 42.900001525878906,
+      "meanHumidity": 37.6,
+      "readings": 10
+    },
+    {
+      "date": "2025-03-29",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.7,
+      "minHumidity": 42.70000076293945,
+      "maxHumidity": 49,
+      "meanHumidity": 45.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-03-30",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.8,
+      "minHumidity": 36,
+      "maxHumidity": 48.599998474121094,
+      "meanHumidity": 43.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-03-31",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 22.9,
+      "minHumidity": 19.399999618530273,
+      "maxHumidity": 39,
+      "meanHumidity": 31.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-01",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.9,
+      "minHumidity": 22.600000381469727,
+      "maxHumidity": 38,
+      "meanHumidity": 31.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-02",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 23,
+      "minHumidity": 34.79999923706055,
+      "maxHumidity": 39.400001525878906,
+      "meanHumidity": 36.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-03",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23,
+      "meanTemp": 22.8,
+      "minHumidity": 33.900001525878906,
+      "maxHumidity": 40,
+      "meanHumidity": 38.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-04",
+      "minTemp": 22.5,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 23,
+      "minHumidity": 31.799999237060547,
+      "maxHumidity": 41,
+      "meanHumidity": 38.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-05",
+      "minTemp": 22.5,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23.1,
+      "minHumidity": 35.79999923706055,
+      "maxHumidity": 41.29999923706055,
+      "meanHumidity": 39.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-06",
+      "minTemp": 23,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.2,
+      "minHumidity": 38.400001525878906,
+      "maxHumidity": 42.099998474121094,
+      "meanHumidity": 40.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-07",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 22.9,
+      "minHumidity": 36.29999923706055,
+      "maxHumidity": 42.70000076293945,
+      "meanHumidity": 38.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-08",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 23,
+      "meanTemp": 22.6,
+      "minHumidity": 32.70000076293945,
+      "maxHumidity": 43,
+      "meanHumidity": 37.4,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-09",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.4,
+      "minHumidity": 34.70000076293945,
+      "maxHumidity": 40.400001525878906,
+      "meanHumidity": 37.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-10",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 23,
+      "meanTemp": 22.6,
+      "minHumidity": 34.400001525878906,
+      "maxHumidity": 41.79999923706055,
+      "meanHumidity": 39,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-11",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 22.9,
+      "minHumidity": 35.900001525878906,
+      "maxHumidity": 42.599998474121094,
+      "meanHumidity": 40.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-12",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23.1,
+      "minHumidity": 42,
+      "maxHumidity": 52.70000076293945,
+      "meanHumidity": 45.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-13",
+      "minTemp": 23,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 50.400001525878906,
+      "meanHumidity": 48.5,
+      "readings": 21
+    },
+    {
+      "date": "2025-04-14",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.9,
+      "minHumidity": 47.5,
+      "maxHumidity": 52.599998474121094,
+      "meanHumidity": 49,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-15",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 23,
+      "meanTemp": 22.7,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 60,
+      "meanHumidity": 54.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-16",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.6,
+      "minHumidity": 54,
+      "maxHumidity": 58.20000076293945,
+      "meanHumidity": 55,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-17",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.6,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 57.79999923706055,
+      "meanHumidity": 53.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-18",
+      "minTemp": 22,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.6,
+      "minHumidity": 48.20000076293945,
+      "maxHumidity": 53.599998474121094,
+      "meanHumidity": 51.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-19",
+      "minTemp": 21,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 48.900001525878906,
+      "maxHumidity": 53.400001525878906,
+      "meanHumidity": 51.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-20",
+      "minTemp": 22,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 51.5,
+      "maxHumidity": 54.900001525878906,
+      "meanHumidity": 53.2,
+      "readings": 21
+    },
+    {
+      "date": "2025-04-21",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.5,
+      "minHumidity": 48.400001525878906,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 50.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-22",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 23.5,
+      "meanTemp": 22.6,
+      "minHumidity": 32.400001525878906,
+      "maxHumidity": 49.900001525878906,
+      "meanHumidity": 45,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-23",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.9,
+      "minHumidity": 47.79999923706055,
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 50,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-24",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.8,
+      "minHumidity": 36.599998474121094,
+      "maxHumidity": 53.5,
+      "meanHumidity": 45.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-25",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 23,
+      "meanTemp": 22.6,
+      "minHumidity": 37.29999923706055,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 44.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-26",
+      "minTemp": 22.5,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.8,
+      "minHumidity": 45.29999923706055,
+      "maxHumidity": 46.70000076293945,
+      "meanHumidity": 45.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-04-27",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.9,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 49.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-28",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 23,
+      "minHumidity": 48.400001525878906,
+      "maxHumidity": 52,
+      "meanHumidity": 50,
+      "readings": 20
+    },
+    {
+      "date": "2025-04-29",
+      "minTemp": 22,
+      "maxTemp": 24.100000381469727,
+      "meanTemp": 23.2,
+      "minHumidity": 36.70000076293945,
+      "maxHumidity": 51.70000076293945,
+      "meanHumidity": 46.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-04-30",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 25.200000762939453,
+      "meanTemp": 23.8,
+      "minHumidity": 39.900001525878906,
+      "maxHumidity": 49.099998474121094,
+      "meanHumidity": 46.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-01",
+      "minTemp": 23.5,
+      "maxTemp": 24.799999237060547,
+      "meanTemp": 24.2,
+      "minHumidity": 49.29999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 50.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-02",
+      "minTemp": 23.799999237060547,
+      "maxTemp": 25.5,
+      "meanTemp": 24.8,
+      "minHumidity": 34.400001525878906,
+      "maxHumidity": 49.5,
+      "meanHumidity": 44.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-03",
+      "minTemp": 25.200000762939453,
+      "maxTemp": 25.600000381469727,
+      "meanTemp": 25.4,
+      "minHumidity": 38.099998474121094,
+      "maxHumidity": 43.400001525878906,
+      "meanHumidity": 41.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-04",
+      "minTemp": 24.299999237060547,
+      "maxTemp": 25.299999237060547,
+      "meanTemp": 25,
+      "minHumidity": 43.29999923706055,
+      "maxHumidity": 54.900001525878906,
+      "meanHumidity": 46.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-05",
+      "minTemp": 23.100000381469727,
+      "maxTemp": 24.700000762939453,
+      "meanTemp": 24,
+      "minHumidity": 50.5,
+      "maxHumidity": 57.400001525878906,
+      "meanHumidity": 54.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-06",
+      "minTemp": 22.5,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 22.9,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 60,
+      "meanHumidity": 54.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-07",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23,
+      "minHumidity": 48.20000076293945,
+      "maxHumidity": 59.29999923706055,
+      "meanHumidity": 53.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-08",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.8,
+      "minHumidity": 47.20000076293945,
+      "maxHumidity": 54.20000076293945,
+      "meanHumidity": 50.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-09",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.5,
+      "minHumidity": 46.099998474121094,
+      "maxHumidity": 50.79999923706055,
+      "meanHumidity": 49.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-10",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 21.8,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 55.70000076293945,
+      "meanHumidity": 52.2,
+      "readings": 21
+    },
+    {
+      "date": "2025-05-11",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.3,
+      "minHumidity": 42.599998474121094,
+      "maxHumidity": 53.400001525878906,
+      "meanHumidity": 49.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-12",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.5,
+      "minHumidity": 44,
+      "maxHumidity": 55.70000076293945,
+      "meanHumidity": 49.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-13",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.4,
+      "minHumidity": 44.5,
+      "maxHumidity": 57,
+      "meanHumidity": 52.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-14",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 23,
+      "minHumidity": 49.5,
+      "maxHumidity": 55.5,
+      "meanHumidity": 53.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-15",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.2,
+      "minHumidity": 31.799999237060547,
+      "maxHumidity": 55.29999923706055,
+      "meanHumidity": 47.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-16",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.2,
+      "minHumidity": 36.099998474121094,
+      "maxHumidity": 48,
+      "meanHumidity": 41.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-17",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23,
+      "minHumidity": 28.5,
+      "maxHumidity": 42.900001525878906,
+      "meanHumidity": 38.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-18",
+      "minTemp": 23.200000762939453,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.5,
+      "minHumidity": 40.79999923706055,
+      "maxHumidity": 47,
+      "meanHumidity": 43.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-19",
+      "minTemp": 23,
+      "maxTemp": 23.899999618530273,
+      "meanTemp": 23.5,
+      "minHumidity": 48.5,
+      "maxHumidity": 52.20000076293945,
+      "meanHumidity": 50,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-20",
+      "minTemp": 23.200000762939453,
+      "maxTemp": 24.100000381469727,
+      "meanTemp": 23.7,
+      "minHumidity": 50.900001525878906,
+      "maxHumidity": 59.900001525878906,
+      "meanHumidity": 55.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-21",
+      "minTemp": 23.5,
+      "maxTemp": 24.200000762939453,
+      "meanTemp": 23.9,
+      "minHumidity": 48.79999923706055,
+      "maxHumidity": 59.29999923706055,
+      "meanHumidity": 54.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-22",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 22.7,
+      "minHumidity": 54.900001525878906,
+      "maxHumidity": 59.79999923706055,
+      "meanHumidity": 57.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-23",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 22.6,
+      "minHumidity": 43.099998474121094,
+      "maxHumidity": 56.400001525878906,
+      "meanHumidity": 50.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-24",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23.1,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 49.79999923706055,
+      "meanHumidity": 48.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-25",
+      "minTemp": 23,
+      "maxTemp": 23.5,
+      "meanTemp": 23.3,
+      "minHumidity": 47.79999923706055,
+      "maxHumidity": 60.5,
+      "meanHumidity": 50.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-26",
+      "minTemp": 23.399999618530273,
+      "maxTemp": 24,
+      "meanTemp": 23.7,
+      "minHumidity": 51.20000076293945,
+      "maxHumidity": 59.20000076293945,
+      "meanHumidity": 54.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-27",
+      "minTemp": 23.700000762939453,
+      "maxTemp": 24.100000381469727,
+      "meanTemp": 23.9,
+      "minHumidity": 52.400001525878906,
+      "maxHumidity": 54.599998474121094,
+      "meanHumidity": 53.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-28",
+      "minTemp": 24,
+      "maxTemp": 24.600000381469727,
+      "meanTemp": 24.3,
+      "minHumidity": 52.599998474121094,
+      "maxHumidity": 54.099998474121094,
+      "meanHumidity": 53.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-29",
+      "minTemp": 24.5,
+      "maxTemp": 25.100000381469727,
+      "meanTemp": 24.8,
+      "minHumidity": 47.79999923706055,
+      "maxHumidity": 51.70000076293945,
+      "meanHumidity": 50.2,
+      "readings": 21
+    },
+    {
+      "date": "2025-05-30",
+      "minTemp": 25.100000381469727,
+      "maxTemp": 25.899999618530273,
+      "meanTemp": 25.4,
+      "minHumidity": 49.79999923706055,
+      "maxHumidity": 52,
+      "meanHumidity": 51.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-05-31",
+      "minTemp": 25.700000762939453,
+      "maxTemp": 26.5,
+      "meanTemp": 26.1,
+      "minHumidity": 48.5,
+      "maxHumidity": 52.099998474121094,
+      "meanHumidity": 51.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-01",
+      "minTemp": 26.399999618530273,
+      "maxTemp": 27.799999237060547,
+      "meanTemp": 26.8,
+      "minHumidity": 43.20000076293945,
+      "maxHumidity": 52.20000076293945,
+      "meanHumidity": 49.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-02",
+      "minTemp": 26.299999237060547,
+      "maxTemp": 27.200000762939453,
+      "meanTemp": 26.7,
+      "minHumidity": 42.29999923706055,
+      "maxHumidity": 53.599998474121094,
+      "meanHumidity": 48,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-03",
+      "minTemp": 26,
+      "maxTemp": 27.100000381469727,
+      "meanTemp": 26.6,
+      "minHumidity": 49.599998474121094,
+      "maxHumidity": 56.20000076293945,
+      "meanHumidity": 51.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-04",
+      "minTemp": 26.299999237060547,
+      "maxTemp": 27,
+      "meanTemp": 26.6,
+      "minHumidity": 49.29999923706055,
+      "maxHumidity": 56.70000076293945,
+      "meanHumidity": 53.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-05",
+      "minTemp": 26,
+      "maxTemp": 27.200000762939453,
+      "meanTemp": 26.4,
+      "minHumidity": 46.099998474121094,
+      "maxHumidity": 57.20000076293945,
+      "meanHumidity": 53.4,
+      "readings": 21
+    },
+    {
+      "date": "2025-06-06",
+      "minTemp": 26,
+      "maxTemp": 26.899999618530273,
+      "meanTemp": 26.5,
+      "minHumidity": 50.400001525878906,
+      "maxHumidity": 57.20000076293945,
+      "meanHumidity": 53.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-07",
+      "minTemp": 26.100000381469727,
+      "maxTemp": 27,
+      "meanTemp": 26.6,
+      "minHumidity": 48.900001525878906,
+      "maxHumidity": 53,
+      "meanHumidity": 51.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-08",
+      "minTemp": 26.299999237060547,
+      "maxTemp": 27.200000762939453,
+      "meanTemp": 26.8,
+      "minHumidity": 47.900001525878906,
+      "maxHumidity": 56.599998474121094,
+      "meanHumidity": 53,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-09",
+      "minTemp": 26.200000762939453,
+      "maxTemp": 27.399999618530273,
+      "meanTemp": 26.9,
+      "minHumidity": 37.599998474121094,
+      "maxHumidity": 53.70000076293945,
+      "meanHumidity": 46.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-10",
+      "minTemp": 26.299999237060547,
+      "maxTemp": 27.799999237060547,
+      "meanTemp": 27.1,
+      "minHumidity": 44.79999923706055,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 48.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-11",
+      "minTemp": 26.700000762939453,
+      "maxTemp": 28.100000381469727,
+      "meanTemp": 27.6,
+      "minHumidity": 50.79999923706055,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 52.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-12",
+      "minTemp": 27.799999237060547,
+      "maxTemp": 30.600000381469727,
+      "meanTemp": 28.7,
+      "minHumidity": 45.900001525878906,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 51.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-13",
+      "minTemp": 28.200000762939453,
+      "maxTemp": 31.299999237060547,
+      "meanTemp": 29.3,
+      "minHumidity": 45.79999923706055,
+      "maxHumidity": 55.20000076293945,
+      "meanHumidity": 52.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-14",
+      "minTemp": 29.100000381469727,
+      "maxTemp": 29.700000762939453,
+      "meanTemp": 29.3,
+      "minHumidity": 46.29999923706055,
+      "maxHumidity": 57.79999923706055,
+      "meanHumidity": 52.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-15",
+      "minTemp": 29.100000381469727,
+      "maxTemp": 29.600000381469727,
+      "meanTemp": 29.3,
+      "minHumidity": 43.5,
+      "maxHumidity": 53.20000076293945,
+      "meanHumidity": 48.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-16",
+      "minTemp": 27.799999237060547,
+      "maxTemp": 29.700000762939453,
+      "meanTemp": 29,
+      "minHumidity": 42.099998474121094,
+      "maxHumidity": 55.400001525878906,
+      "meanHumidity": 48.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-17",
+      "minTemp": 26.600000381469727,
+      "maxTemp": 28.799999237060547,
+      "meanTemp": 27.8,
+      "minHumidity": 37.5,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 44,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-18",
+      "minTemp": 27,
+      "maxTemp": 29.5,
+      "meanTemp": 28.1,
+      "minHumidity": 40.79999923706055,
+      "maxHumidity": 47.900001525878906,
+      "meanHumidity": 44.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-19",
+      "minTemp": 27.899999618530273,
+      "maxTemp": 30.100000381469727,
+      "meanTemp": 28.9,
+      "minHumidity": 41.5,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 46.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-20",
+      "minTemp": 28.399999618530273,
+      "maxTemp": 30.700000762939453,
+      "meanTemp": 29.6,
+      "minHumidity": 46.099998474121094,
+      "maxHumidity": 53.5,
+      "meanHumidity": 49.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-21",
+      "minTemp": 27.5,
+      "maxTemp": 30.600000381469727,
+      "meanTemp": 29.1,
+      "minHumidity": 43.099998474121094,
+      "maxHumidity": 52.5,
+      "meanHumidity": 48.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-22",
+      "minTemp": 27,
+      "maxTemp": 28.799999237060547,
+      "meanTemp": 28.3,
+      "minHumidity": 46,
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 49.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-23",
+      "minTemp": 28.100000381469727,
+      "maxTemp": 30.100000381469727,
+      "meanTemp": 28.8,
+      "minHumidity": 44.599998474121094,
+      "maxHumidity": 54.70000076293945,
+      "meanHumidity": 49.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-24",
+      "minTemp": 28.100000381469727,
+      "maxTemp": 30.5,
+      "meanTemp": 29.3,
+      "minHumidity": 50.099998474121094,
+      "maxHumidity": 56.400001525878906,
+      "meanHumidity": 53.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-25",
+      "minTemp": 28.5,
+      "maxTemp": 31.5,
+      "meanTemp": 30.3,
+      "minHumidity": 40.20000076293945,
+      "maxHumidity": 56.29999923706055,
+      "meanHumidity": 48.9,
+      "readings": 21
+    },
+    {
+      "date": "2025-06-26",
+      "minTemp": 29.700000762939453,
+      "maxTemp": 30.299999237060547,
+      "meanTemp": 30,
+      "minHumidity": 33.70000076293945,
+      "maxHumidity": 50.29999923706055,
+      "meanHumidity": 43.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-06-27",
+      "minTemp": 28.700000762939453,
+      "maxTemp": 31.5,
+      "meanTemp": 29.7,
+      "minHumidity": 34.599998474121094,
+      "maxHumidity": 52.20000076293945,
+      "meanHumidity": 42.9,
+      "readings": 20
+    },
+    {
+      "date": "2025-06-30",
+      "minTemp": 31,
+      "maxTemp": 31.899999618530273,
+      "meanTemp": 31.3,
+      "minHumidity": 39.099998474121094,
+      "maxHumidity": 48.70000076293945,
+      "meanHumidity": 41.7,
+      "readings": 8
+    },
+    {
+      "date": "2025-07-01",
+      "minTemp": 30.299999237060547,
+      "maxTemp": 32.70000076293945,
+      "meanTemp": 31.1,
+      "minHumidity": 41.70000076293945,
+      "maxHumidity": 50.599998474121094,
+      "meanHumidity": 46.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-02",
+      "minTemp": 29.600000381469727,
+      "maxTemp": 31.299999237060547,
+      "meanTemp": 30.6,
+      "minHumidity": 40.5,
+      "maxHumidity": 50.20000076293945,
+      "meanHumidity": 46.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-03",
+      "minTemp": 28.600000381469727,
+      "maxTemp": 31.600000381469727,
+      "meanTemp": 30.4,
+      "minHumidity": 44,
+      "maxHumidity": 58.099998474121094,
+      "meanHumidity": 49.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-04",
+      "minTemp": 30.399999618530273,
+      "maxTemp": 32.79999923706055,
+      "meanTemp": 31.5,
+      "minHumidity": 42,
+      "maxHumidity": 52,
+      "meanHumidity": 46.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-05",
+      "minTemp": 28.600000381469727,
+      "maxTemp": 30.399999618530273,
+      "meanTemp": 29.7,
+      "minHumidity": 41.29999923706055,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 49.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-06",
+      "minTemp": 27.399999618530273,
+      "maxTemp": 29.799999237060547,
+      "meanTemp": 28.8,
+      "minHumidity": 52.099998474121094,
+      "maxHumidity": 60,
+      "meanHumidity": 55.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-07",
+      "minTemp": 25.5,
+      "maxTemp": 28.799999237060547,
+      "meanTemp": 27.4,
+      "minHumidity": 40.099998474121094,
+      "maxHumidity": 65.19999694824219,
+      "meanHumidity": 53.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-08",
+      "minTemp": 24.100000381469727,
+      "maxTemp": 27.200000762939453,
+      "meanTemp": 26.1,
+      "minHumidity": 24.700000762939453,
+      "maxHumidity": 53.5,
+      "meanHumidity": 37.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-09",
+      "minTemp": 25.5,
+      "maxTemp": 26.799999237060547,
+      "meanTemp": 26.3,
+      "minHumidity": 27.600000381469727,
+      "maxHumidity": 42.29999923706055,
+      "meanHumidity": 35.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-10",
+      "minTemp": 25,
+      "maxTemp": 27.899999618530273,
+      "meanTemp": 26.5,
+      "minHumidity": 30.700000762939453,
+      "maxHumidity": 41.79999923706055,
+      "meanHumidity": 36.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-11",
+      "minTemp": 25.600000381469727,
+      "maxTemp": 28.799999237060547,
+      "meanTemp": 27,
+      "minHumidity": 33,
+      "maxHumidity": 45.900001525878906,
+      "meanHumidity": 39.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-12",
+      "minTemp": 26.5,
+      "maxTemp": 28.299999237060547,
+      "meanTemp": 27.2,
+      "minHumidity": 42.400001525878906,
+      "maxHumidity": 48.79999923706055,
+      "meanHumidity": 46.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-13",
+      "minTemp": 26.799999237060547,
+      "maxTemp": 27.700000762939453,
+      "meanTemp": 27.3,
+      "minHumidity": 48.79999923706055,
+      "maxHumidity": 56.099998474121094,
+      "meanHumidity": 53.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-14",
+      "minTemp": 26.200000762939453,
+      "maxTemp": 28.5,
+      "meanTemp": 27.4,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 57.79999923706055,
+      "meanHumidity": 55.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-15",
+      "minTemp": 27.200000762939453,
+      "maxTemp": 30.100000381469727,
+      "meanTemp": 28.5,
+      "minHumidity": 47.5,
+      "maxHumidity": 57.29999923706055,
+      "meanHumidity": 53.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-16",
+      "minTemp": 28.399999618530273,
+      "maxTemp": 29.100000381469727,
+      "meanTemp": 28.8,
+      "minHumidity": 45.70000076293945,
+      "maxHumidity": 54.099998474121094,
+      "meanHumidity": 51.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-17",
+      "minTemp": 27.799999237060547,
+      "maxTemp": 30.5,
+      "meanTemp": 29.1,
+      "minHumidity": 44.400001525878906,
+      "maxHumidity": 55.70000076293945,
+      "meanHumidity": 50.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-18",
+      "minTemp": 28.600000381469727,
+      "maxTemp": 29.299999237060547,
+      "meanTemp": 29,
+      "minHumidity": 41.900001525878906,
+      "maxHumidity": 47.599998474121094,
+      "meanHumidity": 44.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-19",
+      "minTemp": 28.600000381469727,
+      "maxTemp": 29.600000381469727,
+      "meanTemp": 29.2,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 57.900001525878906,
+      "meanHumidity": 50.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-20",
+      "minTemp": 28,
+      "maxTemp": 30.299999237060547,
+      "meanTemp": 29.2,
+      "minHumidity": 50.20000076293945,
+      "maxHumidity": 57.900001525878906,
+      "meanHumidity": 53.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-21",
+      "minTemp": 27.799999237060547,
+      "maxTemp": 29.5,
+      "meanTemp": 28.6,
+      "minHumidity": 45.20000076293945,
+      "maxHumidity": 59,
+      "meanHumidity": 53.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-22",
+      "minTemp": 26.700000762939453,
+      "maxTemp": 30.600000381469727,
+      "meanTemp": 28.6,
+      "minHumidity": 32.5,
+      "maxHumidity": 56.79999923706055,
+      "meanHumidity": 46.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-23",
+      "minTemp": 28.5,
+      "maxTemp": 29.200000762939453,
+      "meanTemp": 28.8,
+      "minHumidity": 45.5,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 49.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-24",
+      "minTemp": 26.5,
+      "maxTemp": 28.799999237060547,
+      "meanTemp": 27.9,
+      "minHumidity": 45.599998474121094,
+      "maxHumidity": 59.099998474121094,
+      "meanHumidity": 52.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-25",
+      "minTemp": 26,
+      "maxTemp": 27.100000381469727,
+      "meanTemp": 26.6,
+      "minHumidity": 48,
+      "maxHumidity": 60.900001525878906,
+      "meanHumidity": 54.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-26",
+      "minTemp": 25,
+      "maxTemp": 26.600000381469727,
+      "meanTemp": 26,
+      "minHumidity": 56.5,
+      "maxHumidity": 62.599998474121094,
+      "meanHumidity": 60.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-27",
+      "minTemp": 25.299999237060547,
+      "maxTemp": 27.600000381469727,
+      "meanTemp": 26.4,
+      "minHumidity": 38.400001525878906,
+      "maxHumidity": 61.29999923706055,
+      "meanHumidity": 48.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-28",
+      "minTemp": 25.600000381469727,
+      "maxTemp": 26.899999618530273,
+      "meanTemp": 26.2,
+      "minHumidity": 51.5,
+      "maxHumidity": 59.29999923706055,
+      "meanHumidity": 55.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-29",
+      "minTemp": 24.600000381469727,
+      "maxTemp": 27.899999618530273,
+      "meanTemp": 26.3,
+      "minHumidity": 32.900001525878906,
+      "maxHumidity": 61,
+      "meanHumidity": 46.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-30",
+      "minTemp": 25.100000381469727,
+      "maxTemp": 26.799999237060547,
+      "meanTemp": 26.2,
+      "minHumidity": 42.5,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 47.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-07-31",
+      "minTemp": 25.200000762939453,
+      "maxTemp": 27.600000381469727,
+      "meanTemp": 26.7,
+      "minHumidity": 39.29999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 48,
+      "readings": 22
+    },
+    {
+      "date": "2025-08-01",
+      "minTemp": 26.100000381469727,
+      "maxTemp": 27.399999618530273,
+      "meanTemp": 26.8,
+      "minHumidity": 49.5,
+      "maxHumidity": 58.900001525878906,
+      "meanHumidity": 52.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-08-02",
+      "minTemp": 26.399999618530273,
+      "maxTemp": 27.100000381469727,
+      "meanTemp": 26.8,
+      "minHumidity": 51.70000076293945,
+      "maxHumidity": 55.900001525878906,
+      "meanHumidity": 53.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-08-03",
+      "minTemp": 26.5,
+      "maxTemp": 27.299999237060547,
+      "meanTemp": 26.8,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 52.79999923706055,
+      "meanHumidity": 50.6,
+      "readings": 13
+    },
+    {
+      "date": "2025-08-29",
+      "minTemp": 24.799999237060547,
+      "maxTemp": 26,
+      "meanTemp": 25.4,
+      "minHumidity": 52.400001525878906,
+      "maxHumidity": 68.30000305175781,
+      "meanHumidity": 59.1,
+      "readings": 13
+    },
+    {
+      "date": "2025-08-30",
+      "minTemp": 23.700000762939453,
+      "maxTemp": 25.299999237060547,
+      "meanTemp": 24.7,
+      "minHumidity": 49.599998474121094,
+      "maxHumidity": 57.900001525878906,
+      "meanHumidity": 54.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-08-31",
+      "minTemp": 24.299999237060547,
+      "maxTemp": 25.5,
+      "meanTemp": 25,
+      "minHumidity": 48,
+      "maxHumidity": 56,
+      "meanHumidity": 51.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-09-01",
+      "minTemp": 24.5,
+      "maxTemp": 25.299999237060547,
+      "meanTemp": 25,
+      "minHumidity": 55,
+      "maxHumidity": 67.0999984741211,
+      "meanHumidity": 60.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-09-02",
+      "minTemp": 24.100000381469727,
+      "maxTemp": 24.899999618530273,
+      "meanTemp": 24.5,
+      "minHumidity": 53.70000076293945,
+      "maxHumidity": 65.5,
+      "meanHumidity": 59.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-09-03",
+      "minTemp": 23.899999618530273,
+      "maxTemp": 25.899999618530273,
+      "meanTemp": 24.7,
+      "minHumidity": 51.79999923706055,
+      "maxHumidity": 60.099998474121094,
+      "meanHumidity": 57.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-09-04",
+      "minTemp": 23.5,
+      "maxTemp": 25.600000381469727,
+      "meanTemp": 24.8,
+      "minHumidity": 53.5,
+      "maxHumidity": 62.29999923706055,
+      "meanHumidity": 58.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-09-05",
+      "minTemp": 24.799999237060547,
+      "maxTemp": 25.700000762939453,
+      "meanTemp": 25.3,
+      "minHumidity": 45.099998474121094,
+      "maxHumidity": 64.30000305175781,
+      "meanHumidity": 60.5,
+      "readings": 15
+    },
+    {
+      "date": "2025-09-26",
+      "minTemp": 22,
+      "maxTemp": 22.5,
+      "meanTemp": 22.3,
+      "minHumidity": 55.29999923706055,
+      "maxHumidity": 57.79999923706055,
+      "meanHumidity": 56.6,
+      "readings": 9
+    },
+    {
+      "date": "2025-09-27",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.7,
+      "minHumidity": 53.70000076293945,
+      "maxHumidity": 59.400001525878906,
+      "meanHumidity": 55.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-09-28",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22,
+      "minHumidity": 45.5,
+      "maxHumidity": 53.599998474121094,
+      "meanHumidity": 50.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-09-29",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.4,
+      "minHumidity": 47.599998474121094,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 50.8,
+      "readings": 21
+    },
+    {
+      "date": "2025-09-30",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.2,
+      "minHumidity": 51.5,
+      "maxHumidity": 58.70000076293945,
+      "meanHumidity": 54.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-01",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 21.8,
+      "minHumidity": 44.900001525878906,
+      "maxHumidity": 56.70000076293945,
+      "meanHumidity": 49.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-02",
+      "minTemp": 21,
+      "maxTemp": 22,
+      "meanTemp": 21.5,
+      "minHumidity": 35.599998474121094,
+      "maxHumidity": 47.099998474121094,
+      "meanHumidity": 41.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-03",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 22,
+      "meanTemp": 21.4,
+      "minHumidity": 41.70000076293945,
+      "maxHumidity": 47.900001525878906,
+      "meanHumidity": 44.6,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-04",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.7,
+      "minHumidity": 47.599998474121094,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 51,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-05",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.2,
+      "minHumidity": 47.29999923706055,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 50.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-06",
+      "minTemp": 19.399999618530273,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.7,
+      "minHumidity": 31.600000381469727,
+      "maxHumidity": 52,
+      "meanHumidity": 43.9,
+      "readings": 21
+    },
+    {
+      "date": "2025-10-07",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 44.599998474121094,
+      "maxHumidity": 50.400001525878906,
+      "meanHumidity": 47.3,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-08",
+      "minTemp": 21.5,
+      "maxTemp": 22,
+      "meanTemp": 21.7,
+      "minHumidity": 50.5,
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 52.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-09",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 51.5,
+      "maxHumidity": 52,
+      "meanHumidity": 51.7,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-10",
+      "minTemp": 22,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22.1,
+      "minHumidity": 51.599998474121094,
+      "maxHumidity": 52.400001525878906,
+      "meanHumidity": 52.1,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-11",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.5,
+      "meanTemp": 22.4,
+      "minHumidity": 52.400001525878906,
+      "maxHumidity": 53.5,
+      "meanHumidity": 52.9,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-12",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.6,
+      "minHumidity": 52.900001525878906,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 53.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-13",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.5,
+      "minHumidity": 53.70000076293945,
+      "maxHumidity": 54.70000076293945,
+      "meanHumidity": 54.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-14",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22.3,
+      "minHumidity": 53.400001525878906,
+      "maxHumidity": 54.20000076293945,
+      "meanHumidity": 53.8,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-15",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.5,
+      "meanTemp": 22.2,
+      "minHumidity": 51.70000076293945,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 53,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-16",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 21.7,
+      "minHumidity": 45.20000076293945,
+      "maxHumidity": 50.599998474121094,
+      "meanHumidity": 48,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-17",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22,
+      "minHumidity": 38.79999923706055,
+      "maxHumidity": 48.20000076293945,
+      "meanHumidity": 44.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-18",
+      "minTemp": 21.5,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.3,
+      "minHumidity": 43.20000076293945,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 46.2,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-19",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 21.8,
+      "minHumidity": 39.79999923706055,
+      "maxHumidity": 46,
+      "meanHumidity": 43.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-20",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.3,
+      "minHumidity": 44.29999923706055,
+      "maxHumidity": 56.20000076293945,
+      "meanHumidity": 51,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-21",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.1,
+      "minHumidity": 54.099998474121094,
+      "maxHumidity": 57.5,
+      "meanHumidity": 56.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-22",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21,
+      "minHumidity": 54.79999923706055,
+      "maxHumidity": 60.599998474121094,
+      "meanHumidity": 57.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-23",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.1,
+      "minHumidity": 55.20000076293945,
+      "maxHumidity": 63.70000076293945,
+      "meanHumidity": 60.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-24",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22,
+      "minHumidity": 28.899999618530273,
+      "maxHumidity": 55.20000076293945,
+      "meanHumidity": 45.5,
+      "readings": 23
+    },
+    {
+      "date": "2025-10-25",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 43.599998474121094,
+      "maxHumidity": 52.400001525878906,
+      "meanHumidity": 47.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-26",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 34,
+      "maxHumidity": 53.400001525878906,
+      "meanHumidity": 44.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-27",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22,
+      "minHumidity": 34,
+      "maxHumidity": 41.70000076293945,
+      "meanHumidity": 37.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-28",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22,
+      "minHumidity": 37.099998474121094,
+      "maxHumidity": 43.70000076293945,
+      "meanHumidity": 41.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-29",
+      "minTemp": 21,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.4,
+      "minHumidity": 43.29999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 46.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-30",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 22,
+      "minHumidity": 49.900001525878906,
+      "maxHumidity": 64.80000305175781,
+      "meanHumidity": 57.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-10-31",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.5,
+      "meanTemp": 22.3,
+      "minHumidity": 56,
+      "maxHumidity": 61.400001525878906,
+      "meanHumidity": 58.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-01",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 55.099998474121094,
+      "maxHumidity": 63.5,
+      "meanHumidity": 58.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-02",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.5,
+      "meanTemp": 22.1,
+      "minHumidity": 56,
+      "maxHumidity": 64.9000015258789,
+      "meanHumidity": 62,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-03",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.5,
+      "minHumidity": 48.900001525878906,
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 51.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-04",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.6,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 50.79999923706055,
+      "meanHumidity": 49,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-05",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.4,
+      "minHumidity": 44.79999923706055,
+      "maxHumidity": 49.5,
+      "meanHumidity": 47.8,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-06",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 22,
+      "meanTemp": 21.1,
+      "minHumidity": 37.400001525878906,
+      "maxHumidity": 45.5,
+      "meanHumidity": 42,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-07",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.6,
+      "minHumidity": 39.29999923706055,
+      "maxHumidity": 45.70000076293945,
+      "meanHumidity": 43.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-08",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22,
+      "minHumidity": 44.70000076293945,
+      "maxHumidity": 69.30000305175781,
+      "meanHumidity": 51,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-09",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22,
+      "minHumidity": 48.5,
+      "maxHumidity": 68.4000015258789,
+      "meanHumidity": 56.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-10",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.9,
+      "minHumidity": 42.29999923706055,
+      "maxHumidity": 54.70000076293945,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-11",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.5,
+      "meanTemp": 22.2,
+      "minHumidity": 43.400001525878906,
+      "maxHumidity": 51.900001525878906,
+      "meanHumidity": 48.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-12",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.6,
+      "minHumidity": 46.599998474121094,
+      "maxHumidity": 53.099998474121094,
+      "meanHumidity": 49.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-13",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23,
+      "meanTemp": 22.8,
+      "minHumidity": 42.70000076293945,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-14",
+      "minTemp": 22.5,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.7,
+      "minHumidity": 48.79999923706055,
+      "maxHumidity": 49.29999923706055,
+      "meanHumidity": 49.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-15",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.5,
+      "minHumidity": 47.900001525878906,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 51,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-16",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.5,
+      "minHumidity": 52.900001525878906,
+      "maxHumidity": 58.70000076293945,
+      "meanHumidity": 55.6,
+      "readings": 21
+    },
+    {
+      "date": "2025-11-17",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.4,
+      "minHumidity": 45,
+      "maxHumidity": 54.5,
+      "meanHumidity": 52.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-18",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 43.099998474121094,
+      "maxHumidity": 47.5,
+      "meanHumidity": 44.8,
+      "readings": 21
+    },
+    {
+      "date": "2025-11-19",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22.1,
+      "minHumidity": 39.5,
+      "maxHumidity": 46.20000076293945,
+      "meanHumidity": 42.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-20",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.9,
+      "minHumidity": 41.5,
+      "maxHumidity": 44.599998474121094,
+      "meanHumidity": 43,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-21",
+      "minTemp": 21,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.3,
+      "minHumidity": 42.099998474121094,
+      "maxHumidity": 49.5,
+      "meanHumidity": 44.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-22",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.1,
+      "minHumidity": 38.79999923706055,
+      "maxHumidity": 45.70000076293945,
+      "meanHumidity": 42.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-23",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 21.100000381469727,
+      "meanTemp": 20.8,
+      "minHumidity": 36.900001525878906,
+      "maxHumidity": 40.20000076293945,
+      "meanHumidity": 38.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-24",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 39.79999923706055,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 43.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-25",
+      "minTemp": 20,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.5,
+      "minHumidity": 44.70000076293945,
+      "maxHumidity": 50.20000076293945,
+      "meanHumidity": 48.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-26",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.6,
+      "minHumidity": 38.5,
+      "maxHumidity": 54.79999923706055,
+      "meanHumidity": 45.9,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-27",
+      "minTemp": 19.100000381469727,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 20.7,
+      "minHumidity": 34.900001525878906,
+      "maxHumidity": 48.599998474121094,
+      "meanHumidity": 44.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-28",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 35.400001525878906,
+      "maxHumidity": 47.29999923706055,
+      "meanHumidity": 42.1,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-29",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 21,
+      "meanTemp": 20.7,
+      "minHumidity": 42.900001525878906,
+      "maxHumidity": 47.900001525878906,
+      "meanHumidity": 44.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-11-30",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 21,
+      "meanTemp": 20.6,
+      "minHumidity": 43.29999923706055,
+      "maxHumidity": 48.70000076293945,
+      "meanHumidity": 45.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-01",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 21,
+      "meanTemp": 20.5,
+      "minHumidity": 45,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 47.6,
+      "readings": 21
+    },
+    {
+      "date": "2025-12-02",
+      "minTemp": 20.5,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.7,
+      "minHumidity": 47.5,
+      "maxHumidity": 48.900001525878906,
+      "meanHumidity": 48.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-03",
+      "minTemp": 20.5,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 20.9,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 56.5,
+      "meanHumidity": 50,
+      "readings": 21
+    },
+    {
+      "date": "2025-12-04",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.2,
+      "minHumidity": 50.70000076293945,
+      "maxHumidity": 56.20000076293945,
+      "meanHumidity": 52.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-05",
+      "minTemp": 21,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.3,
+      "minHumidity": 50.599998474121094,
+      "maxHumidity": 56.79999923706055,
+      "meanHumidity": 52.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-06",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 48.70000076293945,
+      "maxHumidity": 54.29999923706055,
+      "meanHumidity": 51.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-07",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21.2,
+      "minHumidity": 47.900001525878906,
+      "maxHumidity": 53,
+      "meanHumidity": 49.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-08",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 47.29999923706055,
+      "maxHumidity": 51.900001525878906,
+      "meanHumidity": 49.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-09",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.6,
+      "minHumidity": 47.20000076293945,
+      "maxHumidity": 53,
+      "meanHumidity": 49.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-10",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.5,
+      "minHumidity": 43.099998474121094,
+      "maxHumidity": 49.70000076293945,
+      "meanHumidity": 48.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-11",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 21.5,
+      "meanTemp": 21.3,
+      "minHumidity": 49.29999923706055,
+      "maxHumidity": 53.599998474121094,
+      "meanHumidity": 50.7,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-12",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 48.20000076293945,
+      "maxHumidity": 53.599998474121094,
+      "meanHumidity": 50.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-13",
+      "minTemp": 21,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.5,
+      "minHumidity": 45.900001525878906,
+      "maxHumidity": 54.900001525878906,
+      "meanHumidity": 49.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-14",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.3,
+      "minHumidity": 47.29999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 49.3,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-15",
+      "minTemp": 21,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.3,
+      "minHumidity": 44.20000076293945,
+      "maxHumidity": 49.900001525878906,
+      "meanHumidity": 46.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-16",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 21,
+      "minHumidity": 43,
+      "maxHumidity": 53.400001525878906,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-17",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21.1,
+      "minHumidity": 52,
+      "maxHumidity": 56.5,
+      "meanHumidity": 53.2,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-18",
+      "minTemp": 21,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21.1,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 53,
+      "meanHumidity": 52,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-19",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21.2,
+      "minHumidity": 50,
+      "maxHumidity": 51.099998474121094,
+      "meanHumidity": 50.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-20",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 21.5,
+      "meanTemp": 21.4,
+      "minHumidity": 49.79999923706055,
+      "maxHumidity": 53.70000076293945,
+      "meanHumidity": 51,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-21",
+      "minTemp": 21,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.3,
+      "minHumidity": 46.5,
+      "maxHumidity": 50.79999923706055,
+      "meanHumidity": 48.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-22",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.4,
+      "minHumidity": 46.5,
+      "maxHumidity": 53.5,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-23",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 49.400001525878906,
+      "maxHumidity": 52.099998474121094,
+      "meanHumidity": 50.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-24",
+      "minTemp": 21,
+      "maxTemp": 21.5,
+      "meanTemp": 21.2,
+      "minHumidity": 48.400001525878906,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 50,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-25",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.9,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 56.20000076293945,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-26",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.5,
+      "meanTemp": 21,
+      "minHumidity": 41.400001525878906,
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 50,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-27",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 21.600000381469727,
+      "meanTemp": 21.1,
+      "minHumidity": 46.599998474121094,
+      "maxHumidity": 59.20000076293945,
+      "meanHumidity": 50.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-28",
+      "minTemp": 20.5,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21.1,
+      "minHumidity": 44.70000076293945,
+      "maxHumidity": 56.900001525878906,
+      "meanHumidity": 48.6,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-29",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 20.9,
+      "minHumidity": 41.70000076293945,
+      "maxHumidity": 46,
+      "meanHumidity": 43.5,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-30",
+      "minTemp": 20,
+      "maxTemp": 20.899999618530273,
+      "meanTemp": 20.2,
+      "minHumidity": 40.5,
+      "maxHumidity": 42,
+      "meanHumidity": 41.4,
+      "readings": 22
+    },
+    {
+      "date": "2025-12-31",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 19.9,
+      "minHumidity": 38.5,
+      "maxHumidity": 41.20000076293945,
+      "meanHumidity": 39.8,
+      "readings": 22
+    }
+  ],
+  "2026": [
+    {
+      "date": "2026-01-01",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 19.899999618530273,
+      "meanTemp": 19.5,
+      "minHumidity": 38.599998474121094,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 40.3,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-02",
+      "minTemp": 18.700000762939453,
+      "maxTemp": 19.600000381469727,
+      "meanTemp": 19.3,
+      "minHumidity": 41.5,
+      "maxHumidity": 47.79999923706055,
+      "meanHumidity": 44.2,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-03",
+      "minTemp": 18.600000381469727,
+      "maxTemp": 19.299999237060547,
+      "meanTemp": 19.1,
+      "minHumidity": 41.099998474121094,
+      "maxHumidity": 46.5,
+      "meanHumidity": 43.3,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-04",
+      "minTemp": 18.799999237060547,
+      "maxTemp": 19.399999618530273,
+      "meanTemp": 19.1,
+      "minHumidity": 40.099998474121094,
+      "maxHumidity": 46.29999923706055,
+      "meanHumidity": 42.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-05",
+      "minTemp": 18.899999618530273,
+      "maxTemp": 19.5,
+      "meanTemp": 19.2,
+      "minHumidity": 32,
+      "maxHumidity": 46.900001525878906,
+      "meanHumidity": 42.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-06",
+      "minTemp": 18.899999618530273,
+      "maxTemp": 19.799999237060547,
+      "meanTemp": 19.2,
+      "minHumidity": 37.400001525878906,
+      "maxHumidity": 44.20000076293945,
+      "meanHumidity": 40.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-07",
+      "minTemp": 18.100000381469727,
+      "maxTemp": 19.600000381469727,
+      "meanTemp": 19,
+      "minHumidity": 35.5,
+      "maxHumidity": 44.70000076293945,
+      "meanHumidity": 37.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-08",
+      "minTemp": 18.5,
+      "maxTemp": 19.5,
+      "meanTemp": 19,
+      "minHumidity": 35.29999923706055,
+      "maxHumidity": 42.099998474121094,
+      "meanHumidity": 38.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-09",
+      "minTemp": 18.600000381469727,
+      "maxTemp": 18.899999618530273,
+      "meanTemp": 18.7,
+      "minHumidity": 37.5,
+      "maxHumidity": 47,
+      "meanHumidity": 40.6,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-10",
+      "minTemp": 18.299999237060547,
+      "maxTemp": 19,
+      "meanTemp": 18.7,
+      "minHumidity": 39,
+      "maxHumidity": 59.20000076293945,
+      "meanHumidity": 45.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-11",
+      "minTemp": 17.799999237060547,
+      "maxTemp": 19.700000762939453,
+      "meanTemp": 19.1,
+      "minHumidity": 23.899999618530273,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 41.2,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-12",
+      "minTemp": 19,
+      "maxTemp": 19.899999618530273,
+      "meanTemp": 19.4,
+      "minHumidity": 36,
+      "maxHumidity": 48.900001525878906,
+      "meanHumidity": 39.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-13",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 19.600000381469727,
+      "meanTemp": 19.5,
+      "minHumidity": 40.29999923706055,
+      "maxHumidity": 44.5,
+      "meanHumidity": 42.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-14",
+      "minTemp": 19.299999237060547,
+      "maxTemp": 20,
+      "meanTemp": 19.7,
+      "minHumidity": 44.70000076293945,
+      "maxHumidity": 53.099998474121094,
+      "meanHumidity": 47.5,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-15",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.100000381469727,
+      "meanTemp": 19.9,
+      "minHumidity": 47,
+      "maxHumidity": 52.70000076293945,
+      "meanHumidity": 49,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-16",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 19.9,
+      "minHumidity": 46.900001525878906,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 47.7,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-17",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.3,
+      "minHumidity": 48.29999923706055,
+      "maxHumidity": 58,
+      "meanHumidity": 52.2,
+      "readings": 21
+    },
+    {
+      "date": "2026-01-18",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.5,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 54.599998474121094,
+      "meanHumidity": 51,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-19",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.4,
+      "minHumidity": 34.099998474121094,
+      "maxHumidity": 46.79999923706055,
+      "meanHumidity": 43.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-20",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.700000762939453,
+      "meanTemp": 20.4,
+      "minHumidity": 39.70000076293945,
+      "maxHumidity": 45.29999923706055,
+      "meanHumidity": 42.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-01-21",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 40.099998474121094,
+      "maxHumidity": 42.400001525878906,
+      "meanHumidity": 41.2,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-22",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.5,
+      "meanTemp": 20.2,
+      "minHumidity": 39.20000076293945,
+      "maxHumidity": 44.5,
+      "meanHumidity": 41,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-23",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20,
+      "meanTemp": 19.9,
+      "minHumidity": 41.099998474121094,
+      "maxHumidity": 44,
+      "meanHumidity": 41.8,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-24",
+      "minTemp": 19.700000762939453,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 19.9,
+      "minHumidity": 41.400001525878906,
+      "maxHumidity": 59.70000076293945,
+      "meanHumidity": 47.1,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-25",
+      "minTemp": 19.100000381469727,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 19.9,
+      "minHumidity": 46.79999923706055,
+      "maxHumidity": 56.70000076293945,
+      "meanHumidity": 50.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-26",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 44.400001525878906,
+      "maxHumidity": 52.70000076293945,
+      "meanHumidity": 47.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-27",
+      "minTemp": 20.200000762939453,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.5,
+      "minHumidity": 46.099998474121094,
+      "maxHumidity": 54.79999923706055,
+      "meanHumidity": 48.9,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-28",
+      "minTemp": 20,
+      "maxTemp": 20.5,
+      "meanTemp": 20.3,
+      "minHumidity": 46.29999923706055,
+      "maxHumidity": 50.5,
+      "meanHumidity": 48.4,
+      "readings": 22
+    },
+    {
+      "date": "2026-01-29",
+      "minTemp": 20,
+      "maxTemp": 20.5,
+      "meanTemp": 20.2,
+      "minHumidity": 45.400001525878906,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 46.4,
+      "readings": 21
+    },
+    {
+      "date": "2026-01-30",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20,
+      "minHumidity": 46.400001525878906,
+      "maxHumidity": 63.79999923706055,
+      "meanHumidity": 50.5,
+      "readings": 21
+    },
+    {
+      "date": "2026-01-31",
+      "minTemp": 19.399999618530273,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 20.1,
+      "minHumidity": 49.20000076293945,
+      "maxHumidity": 58.70000076293945,
+      "meanHumidity": 52.4,
+      "readings": 21
+    },
+    {
+      "date": "2026-02-01",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 20.1,
+      "minHumidity": 44.599998474121094,
+      "maxHumidity": 48.20000076293945,
+      "meanHumidity": 46.3,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-02",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 20.299999237060547,
+      "meanTemp": 20,
+      "minHumidity": 44.599998474121094,
+      "maxHumidity": 49.400001525878906,
+      "meanHumidity": 45.9,
+      "readings": 15
+    },
+    {
+      "date": "2026-02-03",
+      "minTemp": 19.600000381469727,
+      "maxTemp": 20.200000762939453,
+      "meanTemp": 19.9,
+      "minHumidity": 45.29999923706055,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 48.8,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-04",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 20.399999618530273,
+      "meanTemp": 20.1,
+      "minHumidity": 49.400001525878906,
+      "maxHumidity": 53.20000076293945,
+      "meanHumidity": 50.2,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-05",
+      "minTemp": 20,
+      "maxTemp": 20.799999237060547,
+      "meanTemp": 20.4,
+      "minHumidity": 40.099998474121094,
+      "maxHumidity": 51.099998474121094,
+      "meanHumidity": 47.5,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-06",
+      "minTemp": 20.5,
+      "maxTemp": 21.100000381469727,
+      "meanTemp": 20.8,
+      "minHumidity": 48.29999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 49.7,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-07",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 20.9,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 67.5,
+      "meanHumidity": 50.9,
+      "readings": 21
+    },
+    {
+      "date": "2026-02-08",
+      "minTemp": 20.100000381469727,
+      "maxTemp": 21.200000762939453,
+      "meanTemp": 20.9,
+      "minHumidity": 50.70000076293945,
+      "maxHumidity": 67.5999984741211,
+      "meanHumidity": 55.6,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-09",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 21.5,
+      "meanTemp": 21.2,
+      "minHumidity": 50.599998474121094,
+      "maxHumidity": 52.70000076293945,
+      "meanHumidity": 51.5,
+      "readings": 15
+    },
+    {
+      "date": "2026-02-10",
+      "minTemp": 21,
+      "maxTemp": 21.5,
+      "meanTemp": 21.3,
+      "minHumidity": 50.70000076293945,
+      "maxHumidity": 57.20000076293945,
+      "meanHumidity": 53.3,
+      "readings": 15
+    },
+    {
+      "date": "2026-02-11",
+      "minTemp": 20.299999237060547,
+      "maxTemp": 21.5,
+      "meanTemp": 21.2,
+      "minHumidity": 45.599998474121094,
+      "maxHumidity": 56.099998474121094,
+      "meanHumidity": 51.5,
+      "readings": 17
+    },
+    {
+      "date": "2026-02-12",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21.2,
+      "minHumidity": 49.599998474121094,
+      "maxHumidity": 56.400001525878906,
+      "meanHumidity": 52.8,
+      "readings": 18
+    },
+    {
+      "date": "2026-02-13",
+      "minTemp": 19.899999618530273,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21,
+      "minHumidity": 33,
+      "maxHumidity": 53.099998474121094,
+      "meanHumidity": 45.3,
+      "readings": 19
+    },
+    {
+      "date": "2026-02-14",
+      "minTemp": 20.5,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21.1,
+      "minHumidity": 47.900001525878906,
+      "maxHumidity": 53,
+      "meanHumidity": 49.8,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-15",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.299999237060547,
+      "meanTemp": 21,
+      "minHumidity": 29.200000762939453,
+      "maxHumidity": 51.900001525878906,
+      "meanHumidity": 45,
+      "readings": 21
+    },
+    {
+      "date": "2026-02-16",
+      "minTemp": 19.799999237060547,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21,
+      "minHumidity": 38,
+      "maxHumidity": 51.400001525878906,
+      "meanHumidity": 46.2,
+      "readings": 19
+    },
+    {
+      "date": "2026-02-17",
+      "minTemp": 21,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.3,
+      "minHumidity": 42.5,
+      "maxHumidity": 46.400001525878906,
+      "meanHumidity": 44.5,
+      "readings": 19
+    },
+    {
+      "date": "2026-02-18",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22,
+      "meanTemp": 21.6,
+      "minHumidity": 38.900001525878906,
+      "maxHumidity": 45.599998474121094,
+      "meanHumidity": 41.8,
+      "readings": 18
+    },
+    {
+      "date": "2026-02-19",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.4,
+      "minHumidity": 42.20000076293945,
+      "maxHumidity": 49.20000076293945,
+      "meanHumidity": 44.7,
+      "readings": 19
+    },
+    {
+      "date": "2026-02-20",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.5,
+      "minHumidity": 45.099998474121094,
+      "maxHumidity": 49.400001525878906,
+      "meanHumidity": 47.1,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-21",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 40.20000076293945,
+      "maxHumidity": 45.900001525878906,
+      "meanHumidity": 44.4,
+      "readings": 21
+    },
+    {
+      "date": "2026-02-22",
+      "minTemp": 21.5,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 42.70000076293945,
+      "maxHumidity": 49.70000076293945,
+      "meanHumidity": 44.7,
+      "readings": 21
+    },
+    {
+      "date": "2026-02-23",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22.1,
+      "minHumidity": 44.5,
+      "maxHumidity": 50.900001525878906,
+      "meanHumidity": 47.3,
+      "readings": 18
+    },
+    {
+      "date": "2026-02-24",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.5,
+      "meanTemp": 22.2,
+      "minHumidity": 46.599998474121094,
+      "maxHumidity": 65.19999694824219,
+      "meanHumidity": 51.7,
+      "readings": 18
+    },
+    {
+      "date": "2026-02-25",
+      "minTemp": 21.299999237060547,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 47,
+      "maxHumidity": 62.70000076293945,
+      "meanHumidity": 54.9,
+      "readings": 17
+    },
+    {
+      "date": "2026-02-26",
+      "minTemp": 22,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 48.900001525878906,
+      "maxHumidity": 51.5,
+      "meanHumidity": 49.6,
+      "readings": 19
+    },
+    {
+      "date": "2026-02-27",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 51.20000076293945,
+      "meanHumidity": 49,
+      "readings": 20
+    },
+    {
+      "date": "2026-02-28",
+      "minTemp": 21.5,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 41.79999923706055,
+      "maxHumidity": 51.599998474121094,
+      "meanHumidity": 48.8,
+      "readings": 22
+    },
+    {
+      "date": "2026-03-01",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 47.70000076293945,
+      "maxHumidity": 53.29999923706055,
+      "meanHumidity": 49.5,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-02",
+      "minTemp": 21,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.3,
+      "minHumidity": 49.79999923706055,
+      "maxHumidity": 58.400001525878906,
+      "meanHumidity": 52.7,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-03",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.6,
+      "minHumidity": 48.29999923706055,
+      "maxHumidity": 54.900001525878906,
+      "meanHumidity": 50.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-04",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.3,
+      "minHumidity": 42.099998474121094,
+      "maxHumidity": 50.599998474121094,
+      "meanHumidity": 47.6,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-05",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.5,
+      "meanTemp": 22.3,
+      "minHumidity": 49.900001525878906,
+      "maxHumidity": 53.20000076293945,
+      "meanHumidity": 50.7,
+      "readings": 18
+    },
+    {
+      "date": "2026-03-06",
+      "minTemp": 21.5,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22.1,
+      "minHumidity": 38.5,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 45,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-07",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 22.700000762939453,
+      "meanTemp": 22.2,
+      "minHumidity": 43.20000076293945,
+      "maxHumidity": 60.29999923706055,
+      "meanHumidity": 48.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-08",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.2,
+      "minHumidity": 39.70000076293945,
+      "maxHumidity": 54.70000076293945,
+      "meanHumidity": 48.6,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-09",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.5,
+      "meanTemp": 22.2,
+      "minHumidity": 35.20000076293945,
+      "maxHumidity": 49.599998474121094,
+      "meanHumidity": 44.7,
+      "readings": 19
+    },
+    {
+      "date": "2026-03-10",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.5,
+      "meanTemp": 22.4,
+      "minHumidity": 46.400001525878906,
+      "maxHumidity": 47.599998474121094,
+      "meanHumidity": 46.9,
+      "readings": 19
+    },
+    {
+      "date": "2026-03-11",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 22.600000381469727,
+      "meanTemp": 22.4,
+      "minHumidity": 45,
+      "maxHumidity": 51.099998474121094,
+      "meanHumidity": 46.7,
+      "readings": 20
+    },
+    {
+      "date": "2026-03-12",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 21.9,
+      "minHumidity": 41.400001525878906,
+      "maxHumidity": 49.900001525878906,
+      "meanHumidity": 45.6,
+      "readings": 19
+    },
+    {
+      "date": "2026-03-13",
+      "minTemp": 21,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 21.8,
+      "minHumidity": 38.099998474121094,
+      "maxHumidity": 47.099998474121094,
+      "meanHumidity": 43.6,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-14",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 22,
+      "minHumidity": 44.400001525878906,
+      "maxHumidity": 47,
+      "meanHumidity": 45.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-15",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 44.20000076293945,
+      "maxHumidity": 49.099998474121094,
+      "meanHumidity": 46.4,
+      "readings": 20
+    },
+    {
+      "date": "2026-03-16",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22.1,
+      "minHumidity": 40.099998474121094,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 44.3,
+      "readings": 15
+    },
+    {
+      "date": "2026-03-17",
+      "minTemp": 20.399999618530273,
+      "maxTemp": 22,
+      "meanTemp": 21.6,
+      "minHumidity": 32.5,
+      "maxHumidity": 43.70000076293945,
+      "meanHumidity": 40.6,
+      "readings": 17
+    },
+    {
+      "date": "2026-03-18",
+      "minTemp": 21.5,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 37.400001525878906,
+      "maxHumidity": 48.79999923706055,
+      "meanHumidity": 43.1,
+      "readings": 17
+    },
+    {
+      "date": "2026-03-19",
+      "minTemp": 21.5,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.8,
+      "minHumidity": 38.099998474121094,
+      "maxHumidity": 44.400001525878906,
+      "meanHumidity": 41.6,
+      "readings": 19
+    },
+    {
+      "date": "2026-03-20",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22,
+      "meanTemp": 21.7,
+      "minHumidity": 32,
+      "maxHumidity": 42.29999923706055,
+      "meanHumidity": 38.5,
+      "readings": 20
+    },
+    {
+      "date": "2026-03-21",
+      "minTemp": 21.5,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 36.70000076293945,
+      "maxHumidity": 38.599998474121094,
+      "meanHumidity": 37.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-22",
+      "minTemp": 21.5,
+      "maxTemp": 22,
+      "meanTemp": 21.8,
+      "minHumidity": 36.20000076293945,
+      "maxHumidity": 39.599998474121094,
+      "meanHumidity": 37.8,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-23",
+      "minTemp": 21,
+      "maxTemp": 22,
+      "meanTemp": 21.8,
+      "minHumidity": 26.5,
+      "maxHumidity": 41.400001525878906,
+      "meanHumidity": 36.5,
+      "readings": 16
+    },
+    {
+      "date": "2026-03-24",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 33.70000076293945,
+      "maxHumidity": 38.29999923706055,
+      "meanHumidity": 37,
+      "readings": 17
+    },
+    {
+      "date": "2026-03-25",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 36.20000076293945,
+      "maxHumidity": 42.5,
+      "meanHumidity": 39.1,
+      "readings": 17
+    },
+    {
+      "date": "2026-03-26",
+      "minTemp": 21.5,
+      "maxTemp": 22,
+      "meanTemp": 21.7,
+      "minHumidity": 21.700000762939453,
+      "maxHumidity": 37.900001525878906,
+      "meanHumidity": 33.1,
+      "readings": 15
+    },
+    {
+      "date": "2026-03-27",
+      "minTemp": 20.600000381469727,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.3,
+      "minHumidity": 17.700000762939453,
+      "maxHumidity": 33.70000076293945,
+      "meanHumidity": 28.6,
+      "readings": 18
+    },
+    {
+      "date": "2026-03-28",
+      "minTemp": 20.799999237060547,
+      "maxTemp": 21.5,
+      "meanTemp": 21.2,
+      "minHumidity": 22,
+      "maxHumidity": 34.599998474121094,
+      "meanHumidity": 29.3,
+      "readings": 21
+    },
+    {
+      "date": "2026-03-29",
+      "minTemp": 21,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.5,
+      "minHumidity": 17.100000381469727,
+      "maxHumidity": 36.599998474121094,
+      "meanHumidity": 28.3,
+      "readings": 19
+    },
+    {
+      "date": "2026-03-30",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.799999237060547,
+      "meanTemp": 21.6,
+      "minHumidity": 23.299999237060547,
+      "maxHumidity": 34.79999923706055,
+      "meanHumidity": 29.7,
+      "readings": 15
+    },
+    {
+      "date": "2026-03-31",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.4,
+      "minHumidity": 18.100000381469727,
+      "maxHumidity": 32.79999923706055,
+      "meanHumidity": 29.3,
+      "readings": 15
+    },
+    {
+      "date": "2026-04-01",
+      "minTemp": 20.700000762939453,
+      "maxTemp": 21.5,
+      "meanTemp": 21.1,
+      "minHumidity": 19,
+      "maxHumidity": 30.799999237060547,
+      "meanHumidity": 25.6,
+      "readings": 15
+    },
+    {
+      "date": "2026-04-02",
+      "minTemp": 20.899999618530273,
+      "maxTemp": 21.700000762939453,
+      "meanTemp": 21.5,
+      "minHumidity": 28.799999237060547,
+      "maxHumidity": 33,
+      "meanHumidity": 30.5,
+      "readings": 16
+    },
+    {
+      "date": "2026-04-03",
+      "minTemp": 21.399999618530273,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 29,
+      "maxHumidity": 34.099998474121094,
+      "meanHumidity": 32.2,
+      "readings": 18
+    },
+    {
+      "date": "2026-04-04",
+      "minTemp": 21.100000381469727,
+      "maxTemp": 22.200000762939453,
+      "meanTemp": 22,
+      "minHumidity": 28.5,
+      "maxHumidity": 36.099998474121094,
+      "meanHumidity": 34,
+      "readings": 20
+    },
+    {
+      "date": "2026-04-05",
+      "minTemp": 22,
+      "maxTemp": 22.5,
+      "meanTemp": 22.4,
+      "minHumidity": 35.599998474121094,
+      "maxHumidity": 36.900001525878906,
+      "meanHumidity": 36.4,
+      "readings": 19
+    },
+    {
+      "date": "2026-04-06",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23,
+      "meanTemp": 22.7,
+      "minHumidity": 36.900001525878906,
+      "maxHumidity": 39.900001525878906,
+      "meanHumidity": 38.9,
+      "readings": 17
+    },
+    {
+      "date": "2026-04-07",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 39.599998474121094,
+      "maxHumidity": 42.20000076293945,
+      "meanHumidity": 40.8,
+      "readings": 15
+    },
+    {
+      "date": "2026-04-08",
+      "minTemp": 23,
+      "maxTemp": 23.700000762939453,
+      "meanTemp": 23.4,
+      "minHumidity": 41,
+      "maxHumidity": 49.20000076293945,
+      "meanHumidity": 43.4,
+      "readings": 14
+    },
+    {
+      "date": "2026-04-09",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23.600000381469727,
+      "meanTemp": 23.2,
+      "minHumidity": 34.900001525878906,
+      "maxHumidity": 43.20000076293945,
+      "meanHumidity": 38.9,
+      "readings": 14
+    },
+    {
+      "date": "2026-04-10",
+      "minTemp": 21,
+      "maxTemp": 23.5,
+      "meanTemp": 22.7,
+      "minHumidity": 38.79999923706055,
+      "maxHumidity": 44.900001525878906,
+      "meanHumidity": 41.9,
+      "readings": 17
+    },
+    {
+      "date": "2026-04-11",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 23.200000762939453,
+      "meanTemp": 22.6,
+      "minHumidity": 31.899999618530273,
+      "maxHumidity": 40.099998474121094,
+      "meanHumidity": 36.2,
+      "readings": 20
+    },
+    {
+      "date": "2026-04-12",
+      "minTemp": 21.700000762939453,
+      "maxTemp": 23,
+      "meanTemp": 22.5,
+      "minHumidity": 33.20000076293945,
+      "maxHumidity": 47.20000076293945,
+      "meanHumidity": 39.9,
+      "readings": 18
+    },
+    {
+      "date": "2026-04-13",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 46.70000076293945,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 48.3,
+      "readings": 12
+    },
+    {
+      "date": "2026-04-14",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.8,
+      "minHumidity": 47.099998474121094,
+      "maxHumidity": 50.400001525878906,
+      "meanHumidity": 49,
+      "readings": 13
+    },
+    {
+      "date": "2026-04-15",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.2,
+      "minHumidity": 47,
+      "maxHumidity": 50,
+      "meanHumidity": 48.2,
+      "readings": 14
+    },
+    {
+      "date": "2026-04-16",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23.600000381469727,
+      "meanTemp": 23.3,
+      "minHumidity": 48,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 51.3,
+      "readings": 13
+    },
+    {
+      "date": "2026-04-17",
+      "minTemp": 23,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.5,
+      "minHumidity": 44,
+      "maxHumidity": 52.400001525878906,
+      "meanHumidity": 47.2,
+      "readings": 16
+    },
+    {
+      "date": "2026-04-18",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 24.299999237060547,
+      "meanTemp": 23.7,
+      "minHumidity": 39.5,
+      "maxHumidity": 50.20000076293945,
+      "meanHumidity": 44.6,
+      "readings": 18
+    },
+    {
+      "date": "2026-04-19",
+      "minTemp": 23,
+      "maxTemp": 24.899999618530273,
+      "meanTemp": 23.7,
+      "minHumidity": 40.900001525878906,
+      "maxHumidity": 53.099998474121094,
+      "meanHumidity": 45.9,
+      "readings": 18
+    },
+    {
+      "date": "2026-04-20",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.700000762939453,
+      "meanTemp": 23.3,
+      "minHumidity": 46.79999923706055,
+      "maxHumidity": 52.400001525878906,
+      "meanHumidity": 49.5,
+      "readings": 13
+    },
+    {
+      "date": "2026-04-21",
+      "minTemp": 22.100000381469727,
+      "maxTemp": 23.5,
+      "meanTemp": 23.1,
+      "minHumidity": 45.29999923706055,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 48.1,
+      "readings": 13
+    },
+    {
+      "date": "2026-04-22",
+      "minTemp": 22.5,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 38.70000076293945,
+      "maxHumidity": 48.599998474121094,
+      "meanHumidity": 45.2,
+      "readings": 6
+    },
+    {
+      "date": "2026-04-23",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23.2,
+      "minHumidity": 32.599998474121094,
+      "maxHumidity": 40.599998474121094,
+      "meanHumidity": 37.6,
+      "readings": 9
+    },
+    {
+      "date": "2026-04-24",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 23.700000762939453,
+      "meanTemp": 23.4,
+      "minHumidity": 27.799999237060547,
+      "maxHumidity": 41.79999923706055,
+      "meanHumidity": 35.3,
+      "readings": 15
+    },
+    {
+      "date": "2026-04-25",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 23.700000762939453,
+      "meanTemp": 23.3,
+      "minHumidity": 31.600000381469727,
+      "maxHumidity": 42.29999923706055,
+      "meanHumidity": 37.4,
+      "readings": 18
+    },
+    {
+      "date": "2026-04-26",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 24.200000762939453,
+      "meanTemp": 23.4,
+      "minHumidity": 38.20000076293945,
+      "maxHumidity": 48.5,
+      "meanHumidity": 44.8,
+      "readings": 17
+    },
+    {
+      "date": "2026-04-27",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 24.100000381469727,
+      "meanTemp": 23.7,
+      "minHumidity": 39.79999923706055,
+      "maxHumidity": 47.400001525878906,
+      "meanHumidity": 43.3,
+      "readings": 11
+    },
+    {
+      "date": "2026-04-28",
+      "minTemp": 23.600000381469727,
+      "maxTemp": 24.5,
+      "meanTemp": 24.1,
+      "minHumidity": 42.400001525878906,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 45.1,
+      "readings": 10
+    },
+    {
+      "date": "2026-04-29",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 24.5,
+      "meanTemp": 23.7,
+      "minHumidity": 43.099998474121094,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 46.7,
+      "readings": 11
+    },
+    {
+      "date": "2026-04-30",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 22.9,
+      "minHumidity": 30.200000762939453,
+      "maxHumidity": 47.79999923706055,
+      "meanHumidity": 35.3,
+      "readings": 11
+    },
+    {
+      "date": "2026-05-01",
+      "minTemp": 22.200000762939453,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 30.600000381469727,
+      "maxHumidity": 35.70000076293945,
+      "meanHumidity": 33.7,
+      "readings": 14
+    },
+    {
+      "date": "2026-05-02",
+      "minTemp": 23,
+      "maxTemp": 23.600000381469727,
+      "meanTemp": 23.3,
+      "minHumidity": 30.899999618530273,
+      "maxHumidity": 38.099998474121094,
+      "meanHumidity": 36.3,
+      "readings": 17
+    },
+    {
+      "date": "2026-05-03",
+      "minTemp": 23.299999237060547,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.6,
+      "minHumidity": 28.600000381469727,
+      "maxHumidity": 40,
+      "meanHumidity": 35.5,
+      "readings": 16
+    },
+    {
+      "date": "2026-05-04",
+      "minTemp": 23.399999618530273,
+      "maxTemp": 23.899999618530273,
+      "meanTemp": 23.7,
+      "minHumidity": 32.29999923706055,
+      "maxHumidity": 39.599998474121094,
+      "meanHumidity": 36.1,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-05",
+      "minTemp": 23.5,
+      "maxTemp": 23.799999237060547,
+      "meanTemp": 23.7,
+      "minHumidity": 39,
+      "maxHumidity": 48.70000076293945,
+      "meanHumidity": 45.4,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-06",
+      "minTemp": 23.100000381469727,
+      "maxTemp": 23.5,
+      "meanTemp": 23.2,
+      "minHumidity": 45.79999923706055,
+      "maxHumidity": 51.900001525878906,
+      "meanHumidity": 48.5,
+      "readings": 11
+    },
+    {
+      "date": "2026-05-07",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 23,
+      "minHumidity": 41.099998474121094,
+      "maxHumidity": 50.29999923706055,
+      "meanHumidity": 45.5,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-08",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 22.899999618530273,
+      "meanTemp": 22.7,
+      "minHumidity": 45.099998474121094,
+      "maxHumidity": 49.79999923706055,
+      "meanHumidity": 47.4,
+      "readings": 12
+    },
+    {
+      "date": "2026-05-09",
+      "minTemp": 22.899999618530273,
+      "maxTemp": 23.5,
+      "meanTemp": 23.2,
+      "minHumidity": 46.20000076293945,
+      "maxHumidity": 54.099998474121094,
+      "meanHumidity": 48.7,
+      "readings": 17
+    },
+    {
+      "date": "2026-05-10",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23.399999618530273,
+      "meanTemp": 23,
+      "minHumidity": 51.099998474121094,
+      "maxHumidity": 56.29999923706055,
+      "meanHumidity": 53.5,
+      "readings": 15
+    },
+    {
+      "date": "2026-05-11",
+      "minTemp": 22.799999237060547,
+      "maxTemp": 23.299999237060547,
+      "meanTemp": 23.1,
+      "minHumidity": 44.79999923706055,
+      "maxHumidity": 53.79999923706055,
+      "meanHumidity": 50.7,
+      "readings": 9
+    },
+    {
+      "date": "2026-05-12",
+      "minTemp": 22.399999618530273,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 23,
+      "minHumidity": 41.599998474121094,
+      "maxHumidity": 50.099998474121094,
+      "meanHumidity": 44.1,
+      "readings": 9
+    },
+    {
+      "date": "2026-05-13",
+      "minTemp": 22.700000762939453,
+      "maxTemp": 23,
+      "meanTemp": 22.9,
+      "minHumidity": 39.599998474121094,
+      "maxHumidity": 44.20000076293945,
+      "meanHumidity": 42.7,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-14",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 22.799999237060547,
+      "meanTemp": 22.2,
+      "minHumidity": 39.70000076293945,
+      "maxHumidity": 50.099998474121094,
+      "meanHumidity": 46.3,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-15",
+      "minTemp": 21.200000762939453,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.6,
+      "minHumidity": 45.79999923706055,
+      "maxHumidity": 51.099998474121094,
+      "meanHumidity": 48.9,
+      "readings": 10
+    },
+    {
+      "date": "2026-05-16",
+      "minTemp": 21.5,
+      "maxTemp": 21.899999618530273,
+      "meanTemp": 21.7,
+      "minHumidity": 44.20000076293945,
+      "maxHumidity": 50.400001525878906,
+      "meanHumidity": 47.5,
+      "readings": 14
+    },
+    {
+      "date": "2026-05-17",
+      "minTemp": 21.600000381469727,
+      "maxTemp": 22.100000381469727,
+      "meanTemp": 21.9,
+      "minHumidity": 33.79999923706055,
+      "maxHumidity": 44.099998474121094,
+      "meanHumidity": 40.1,
+      "readings": 13
+    },
+    {
+      "date": "2026-05-18",
+      "minTemp": 21.799999237060547,
+      "maxTemp": 22.299999237060547,
+      "meanTemp": 22,
+      "minHumidity": 41.5,
+      "maxHumidity": 55,
+      "meanHumidity": 46.7,
+      "readings": 7
+    },
+    {
+      "date": "2026-05-19",
+      "minTemp": 21.899999618530273,
+      "maxTemp": 22.399999618530273,
+      "meanTemp": 22.2,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 51.70000076293945,
+      "meanHumidity": 49.2,
+      "readings": 8
+    },
+    {
+      "date": "2026-05-20",
+      "minTemp": 22.299999237060547,
+      "maxTemp": 23.100000381469727,
+      "meanTemp": 22.7,
+      "minHumidity": 43.79999923706055,
+      "maxHumidity": 50.70000076293945,
+      "meanHumidity": 47.9,
+      "readings": 8
+    },
+    {
+      "date": "2026-05-21",
+      "minTemp": 22.600000381469727,
+      "maxTemp": 23.700000762939453,
+      "meanTemp": 23.3,
+      "minHumidity": 45.70000076293945,
+      "maxHumidity": 51.79999923706055,
+      "meanHumidity": 47.9,
+      "readings": 8
+    },
+    {
+      "date": "2026-05-22",
+      "minTemp": 23.5,
+      "maxTemp": 24.799999237060547,
+      "meanTemp": 24.3,
+      "minHumidity": 44,
+      "maxHumidity": 47.79999923706055,
+      "meanHumidity": 46.5,
+      "readings": 8
+    },
+    {
+      "date": "2026-05-23",
+      "minTemp": 24.600000381469727,
+      "maxTemp": 25.5,
+      "meanTemp": 25.1,
+      "minHumidity": 45.79999923706055,
+      "maxHumidity": 50.099998474121094,
+      "meanHumidity": 48.1,
+      "readings": 14
+    },
+    {
+      "date": "2026-05-24",
+      "minTemp": 25.600000381469727,
+      "maxTemp": 27.799999237060547,
+      "meanTemp": 26.2,
+      "minHumidity": 37.599998474121094,
+      "maxHumidity": 51.20000076293945,
+      "meanHumidity": 46.9,
+      "readings": 11
+    },
+    {
+      "date": "2026-05-25",
+      "minTemp": 26.399999618530273,
+      "maxTemp": 30.600000381469727,
+      "meanTemp": 28.3,
+      "minHumidity": 30.200000762939453,
+      "maxHumidity": 50.099998474121094,
+      "meanHumidity": 38.7,
+      "readings": 8
+    },
+    {
+      "date": "2026-05-26",
+      "minTemp": 27.899999618530273,
+      "maxTemp": 28.299999237060547,
+      "meanTemp": 28.2,
+      "minHumidity": 37.20000076293945,
+      "maxHumidity": 45.400001525878906,
+      "meanHumidity": 41,
+      "readings": 7
+    },
+    {
+      "date": "2026-05-27",
+      "minTemp": 28.399999618530273,
+      "maxTemp": 30.100000381469727,
+      "meanTemp": 29.1,
+      "minHumidity": 35,
+      "maxHumidity": 41.400001525878906,
+      "meanHumidity": 39,
+      "readings": 7
+    },
+    {
+      "date": "2026-05-28",
+      "minTemp": 26.799999237060547,
+      "maxTemp": 31.299999237060547,
+      "meanTemp": 28.7,
+      "minHumidity": 35.79999923706055,
+      "maxHumidity": 62.70000076293945,
+      "meanHumidity": 50.5,
+      "readings": 7
+    },
+    {
+      "date": "2026-05-29",
+      "minTemp": 25.399999618530273,
+      "maxTemp": 28.700000762939453,
+      "meanTemp": 27.7,
+      "minHumidity": 43.5,
+      "maxHumidity": 62.599998474121094,
+      "meanHumidity": 49.4,
+      "readings": 7
+    },
+    {
+      "date": "2026-05-30",
+      "minTemp": 27.5,
+      "maxTemp": 29,
+      "meanTemp": 28.2,
+      "minHumidity": 41.70000076293945,
+      "maxHumidity": 48.20000076293945,
+      "meanHumidity": 46.1,
+      "readings": 11
+    },
+    {
+      "date": "2026-05-31",
+      "minTemp": 28.299999237060547,
+      "maxTemp": 28.600000381469727,
+      "meanTemp": 28.4,
+      "minHumidity": 44.099998474121094,
+      "maxHumidity": 48.20000076293945,
+      "meanHumidity": 46.9,
+      "readings": 10
+    },
+    {
+      "date": "2026-06-01",
+      "minTemp": 28.299999237060547,
+      "maxTemp": 28.700000762939453,
+      "meanTemp": 28.5,
+      "minHumidity": 44.29999923706055,
+      "maxHumidity": 49.20000076293945,
+      "meanHumidity": 47.3,
+      "readings": 5
+    },
+    {
+      "date": "2026-06-02",
+      "minTemp": 25.799999237060547,
+      "maxTemp": 28.299999237060547,
+      "meanTemp": 27.1,
+      "minHumidity": 49.5,
+      "maxHumidity": 56.400001525878906,
+      "meanHumidity": 53.8,
+      "readings": 7
+    },
+    {
+      "date": "2026-06-03",
+      "minTemp": 25.5,
+      "maxTemp": 26.700000762939453,
+      "meanTemp": 26.2,
+      "minHumidity": 33.599998474121094,
+      "maxHumidity": 55.099998474121094,
+      "meanHumidity": 42.8,
+      "readings": 6
+    },
+    {
+      "date": "2026-06-04",
+      "minTemp": 24.600000381469727,
+      "maxTemp": 26.600000381469727,
+      "meanTemp": 25.9,
+      "minHumidity": 46.29999923706055,
+      "maxHumidity": 54.900001525878906,
+      "meanHumidity": 49,
+      "readings": 7
+    },
+    {
+      "date": "2026-06-05",
+      "minTemp": 25.100000381469727,
+      "maxTemp": 26.100000381469727,
+      "meanTemp": 25.8,
+      "minHumidity": 47.400001525878906,
+      "maxHumidity": 59.20000076293945,
+      "meanHumidity": 52.2,
+      "readings": 9
+    },
+    {
+      "date": "2026-06-06",
+      "minTemp": 25,
+      "maxTemp": 26.200000762939453,
+      "meanTemp": 25.7,
+      "minHumidity": 46,
+      "maxHumidity": 57.900001525878906,
+      "meanHumidity": 51.3,
+      "readings": 10
+    },
+    {
+      "date": "2026-06-07",
+      "minTemp": 25.700000762939453,
+      "maxTemp": 26.700000762939453,
+      "meanTemp": 26.4,
+      "minHumidity": 49,
+      "maxHumidity": 52.29999923706055,
+      "meanHumidity": 50.5,
+      "readings": 9
+    },
+    {
+      "date": "2026-06-08",
+      "minTemp": 26.399999618530273,
+      "maxTemp": 27,
+      "meanTemp": 26.8,
+      "minHumidity": 49.5,
+      "maxHumidity": 52.900001525878906,
+      "meanHumidity": 51.1,
+      "readings": 7
+    },
+    {
+      "date": "2026-06-09",
+      "minTemp": 26.799999237060547,
+      "maxTemp": 27.399999618530273,
+      "meanTemp": 27.2,
+      "minHumidity": 48.70000076293945,
+      "maxHumidity": 51.20000076293945,
+      "meanHumidity": 50.3,
+      "readings": 8
+    },
+    {
+      "date": "2026-06-10",
+      "minTemp": 26.299999237060547,
+      "maxTemp": 27.200000762939453,
+      "meanTemp": 26.9,
+      "minHumidity": 31,
+      "maxHumidity": 51.70000076293945,
+      "meanHumidity": 44,
+      "readings": 8
+    },
+    {
+      "date": "2026-06-11",
+      "minTemp": 26.100000381469727,
+      "maxTemp": 26.799999237060547,
+      "meanTemp": 26.5,
+      "minHumidity": 30,
+      "maxHumidity": 33,
+      "meanHumidity": 31.4,
+      "readings": 6
+    },
+    {
+      "date": "2026-06-12",
+      "minTemp": 26.100000381469727,
+      "maxTemp": 27.100000381469727,
+      "meanTemp": 26.6,
+      "minHumidity": 36.20000076293945,
+      "maxHumidity": 41.400001525878906,
+      "meanHumidity": 39.2,
+      "readings": 7
+    },
+    {
+      "date": "2026-06-13",
+      "minTemp": 26.5,
+      "maxTemp": 27.299999237060547,
+      "meanTemp": 27,
+      "minHumidity": 37,
+      "maxHumidity": 44.79999923706055,
+      "meanHumidity": 41.5,
+      "readings": 10
+    },
+    {
+      "date": "2026-06-14",
+      "minTemp": 27.200000762939453,
+      "maxTemp": 28.100000381469727,
+      "meanTemp": 27.6,
+      "minHumidity": 37,
+      "maxHumidity": 47.5,
+      "meanHumidity": 43.5,
+      "readings": 9
+    },
+    {
+      "date": "2026-06-15",
+      "minTemp": 26.899999618530273,
+      "maxTemp": 28.700000762939453,
+      "meanTemp": 27.9,
+      "minHumidity": 24.600000381469727,
+      "maxHumidity": 49.5,
+      "meanHumidity": 36.8,
+      "readings": 5
+    },
+    {
+      "date": "2026-06-16",
+      "minTemp": 26.700000762939453,
+      "maxTemp": 28.5,
+      "meanTemp": 27.7,
+      "minHumidity": 40.900001525878906,
+      "maxHumidity": 52.29999923706055,
+      "meanHumidity": 48.1,
+      "readings": 5
+    },
+    {
+      "date": "2026-06-17",
+      "minTemp": 27,
+      "maxTemp": 29.200000762939453,
+      "meanTemp": 28.3,
+      "minHumidity": 43,
+      "maxHumidity": 55.70000076293945,
+      "meanHumidity": 47.7,
+      "readings": 7
+    },
+    {
+      "date": "2026-06-18",
+      "minTemp": 28.299999237060547,
+      "maxTemp": 31.100000381469727,
+      "meanTemp": 29.6,
+      "minHumidity": 41.20000076293945,
+      "maxHumidity": 52.599998474121094,
+      "meanHumidity": 46.6,
+      "readings": 6
+    },
+    {
+      "date": "2026-06-19",
+      "minTemp": 29.200000762939453,
+      "maxTemp": 30.700000762939453,
+      "meanTemp": 29.8,
+      "minHumidity": 48.400001525878906,
+      "maxHumidity": 51.900001525878906,
+      "meanHumidity": 50.5,
+      "readings": 8
+    },
+    {
+      "date": "2026-06-20",
+      "minTemp": 29.100000381469727,
+      "maxTemp": 30,
+      "meanTemp": 29.7,
+      "minHumidity": 49.5,
+      "maxHumidity": 53.20000076293945,
+      "meanHumidity": 50.5,
+      "readings": 10
+    },
+    {
+      "date": "2026-06-21",
+      "minTemp": 29.899999618530273,
+      "maxTemp": 30.299999237060547,
+      "meanTemp": 30.1,
+      "minHumidity": 49.900001525878906,
+      "maxHumidity": 51.20000076293945,
+      "meanHumidity": 50.8,
+      "readings": 8
+    },
+    {
+      "date": "2026-06-22",
+      "minTemp": 30.299999237060547,
+      "maxTemp": 33.099998474121094,
+      "meanTemp": 31.3,
+      "minHumidity": 41.79999923706055,
+      "maxHumidity": 51.099998474121094,
+      "meanHumidity": 46.6,
+      "readings": 3
+    }
+  ]
+}
