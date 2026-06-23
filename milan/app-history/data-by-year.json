@@ -17193,12 +17193,12 @@
     {
       "date": "2026-06-23",
       "minTemp": 30.5,
-      "maxTemp": 32.5,
-      "meanTemp": 31.4,
-      "minHumidity": 63,
+      "maxTemp": 36.2,
+      "meanTemp": 33.2,
+      "minHumidity": 52,
       "maxHumidity": 63,
-      "meanHumidity": 63,
-      "readings": 3
+      "meanHumidity": 57.5,
+      "readings": 6
     }
   ]
 }
