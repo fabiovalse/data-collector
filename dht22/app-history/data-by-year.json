@@ -5028,11 +5028,11 @@
       "date": "2026-06-24",
       "minTemp": 30.899999618530273,
       "maxTemp": 33.400001525878906,
-      "meanTemp": 32,
+      "meanTemp": 31.9,
       "minHumidity": 41.099998474121094,
       "maxHumidity": 49.900001525878906,
-      "meanHumidity": 45.1,
-      "readings": 7
+      "meanHumidity": 45.6,
+      "readings": 8
     }
   ]
 }
