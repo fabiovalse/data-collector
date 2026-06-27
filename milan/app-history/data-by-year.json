@@ -17234,11 +17234,11 @@
       "date": "2026-06-27",
       "minTemp": 31,
       "maxTemp": 36.9,
-      "meanTemp": 34,
+      "meanTemp": 33.7,
       "minHumidity": 51,
       "maxHumidity": 60,
-      "meanHumidity": 55.5,
-      "readings": 6
+      "meanHumidity": 55.7,
+      "readings": 9
     }
   ]
 }
