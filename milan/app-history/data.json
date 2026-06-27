@@ -17222,11 +17222,11 @@
   {
     "date": "2026-06-27",
     "minTemp": 31,
-    "maxTemp": 33.5,
-    "meanTemp": 32.2,
-    "minHumidity": 60,
+    "maxTemp": 36.9,
+    "meanTemp": 34,
+    "minHumidity": 51,
     "maxHumidity": 60,
-    "meanHumidity": 60,
-    "readings": 3
+    "meanHumidity": 55.5,
+    "readings": 6
   }
 ]
