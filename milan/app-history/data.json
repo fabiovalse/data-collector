@@ -17243,10 +17243,10 @@
     "date": "2026-06-29",
     "minTemp": 32.9,
     "maxTemp": 35.3,
-    "meanTemp": 34,
-    "minHumidity": 57,
+    "meanTemp": 34.5,
+    "minHumidity": 36,
     "maxHumidity": 57,
-    "meanHumidity": 57,
-    "readings": 3
+    "meanHumidity": 46.5,
+    "readings": 6
   }
 ]
