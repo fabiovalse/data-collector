@@ -17262,13 +17262,13 @@
     },
     {
       "date": "2026-06-30",
-      "minTemp": 27.9,
+      "minTemp": 27.8,
       "maxTemp": 34,
-      "meanTemp": 31.3,
+      "meanTemp": 30.6,
       "minHumidity": 54,
       "maxHumidity": 66,
-      "meanHumidity": 60,
-      "readings": 6
+      "meanHumidity": 61.3,
+      "readings": 9
     }
   ]
 }
