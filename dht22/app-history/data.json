@@ -5082,11 +5082,11 @@
   {
     "date": "2026-06-30",
     "minTemp": 29.899999618530273,
-    "maxTemp": 31.700000762939453,
-    "meanTemp": 30.6,
+    "maxTemp": 31.899999618530273,
+    "meanTemp": 30.9,
     "minHumidity": 44.70000076293945,
     "maxHumidity": 53.79999923706055,
-    "meanHumidity": 48.7,
-    "readings": 4
+    "meanHumidity": 47.9,
+    "readings": 5
   }
 ]
