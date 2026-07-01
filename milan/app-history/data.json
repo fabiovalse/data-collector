@@ -17263,10 +17263,10 @@
     "date": "2026-07-01",
     "minTemp": 21.2,
     "maxTemp": 32,
-    "meanTemp": 26.4,
+    "meanTemp": 25.1,
     "minHumidity": 64,
-    "maxHumidity": 66,
-    "meanHumidity": 65,
-    "readings": 6
+    "maxHumidity": 74,
+    "meanHumidity": 68,
+    "readings": 9
   }
 ]
