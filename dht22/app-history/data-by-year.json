@@ -5097,12 +5097,12 @@
     {
       "date": "2026-07-01",
       "minTemp": 30.5,
-      "maxTemp": 30.5,
-      "meanTemp": 30.5,
-      "minHumidity": 48.099998474121094,
+      "maxTemp": 30.700000762939453,
+      "meanTemp": 30.6,
+      "minHumidity": 43.29999923706055,
       "maxHumidity": 49,
-      "meanHumidity": 48.5,
-      "readings": 2
+      "meanHumidity": 46.8,
+      "readings": 3
     }
   ]
 }
