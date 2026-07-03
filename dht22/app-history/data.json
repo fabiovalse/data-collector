@@ -5112,11 +5112,11 @@
   {
     "date": "2026-07-03",
     "minTemp": 28.200000762939453,
-    "maxTemp": 30.799999237060547,
-    "meanTemp": 29.8,
-    "minHumidity": 35.400001525878906,
+    "maxTemp": 31.700000762939453,
+    "meanTemp": 30.1,
+    "minHumidity": 31.600000381469727,
     "maxHumidity": 47.29999923706055,
-    "meanHumidity": 38.9,
-    "readings": 5
+    "meanHumidity": 37.7,
+    "readings": 6
   }
 ]
