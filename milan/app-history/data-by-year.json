@@ -17314,11 +17314,11 @@
       "date": "2026-07-05",
       "minTemp": 27.7,
       "maxTemp": 34.5,
-      "meanTemp": 31.5,
-      "minHumidity": 50,
+      "meanTemp": 31.2,
+      "minHumidity": 46,
       "maxHumidity": 66,
-      "meanHumidity": 58,
-      "readings": 6
+      "meanHumidity": 54,
+      "readings": 9
     }
   ]
 }
