@@ -17313,12 +17313,12 @@
     {
       "date": "2026-07-05",
       "minTemp": 27.7,
-      "maxTemp": 30.8,
-      "meanTemp": 29.2,
-      "minHumidity": 66,
+      "maxTemp": 34.5,
+      "meanTemp": 31.5,
+      "minHumidity": 50,
       "maxHumidity": 66,
-      "meanHumidity": 66,
-      "readings": 3
+      "meanHumidity": 58,
+      "readings": 6
     }
   ]
 }
