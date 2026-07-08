@@ -17344,11 +17344,11 @@
       "date": "2026-07-08",
       "minTemp": 28,
       "maxTemp": 37.8,
-      "meanTemp": 33.1,
-      "minHumidity": 49,
+      "meanTemp": 32.9,
+      "minHumidity": 39,
       "maxHumidity": 71,
-      "meanHumidity": 60,
-      "readings": 6
+      "meanHumidity": 53,
+      "readings": 9
     }
   ]
 }
