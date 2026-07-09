@@ -17341,12 +17341,12 @@
   },
   {
     "date": "2026-07-09",
-    "minTemp": 29.5,
+    "minTemp": 28.5,
     "maxTemp": 35,
-    "meanTemp": 32,
+    "meanTemp": 31.5,
     "minHumidity": 55,
     "maxHumidity": 65,
-    "meanHumidity": 60,
-    "readings": 6
+    "meanHumidity": 58.3,
+    "readings": 9
   }
 ]
