@@ -17372,13 +17372,13 @@
     },
     {
       "date": "2026-07-11",
-      "minTemp": 26.6,
+      "minTemp": 25.5,
       "maxTemp": 34.7,
-      "meanTemp": 30.9,
-      "minHumidity": 61,
+      "meanTemp": 29.2,
+      "minHumidity": 57,
       "maxHumidity": 73,
-      "meanHumidity": 67,
-      "readings": 6
+      "meanHumidity": 63.7,
+      "readings": 9
     }
   ]
 }
