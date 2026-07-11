@@ -5198,11 +5198,11 @@
       "date": "2026-07-11",
       "minTemp": 30.100000381469727,
       "maxTemp": 30.399999618530273,
-      "meanTemp": 30.2,
+      "meanTemp": 30.3,
       "minHumidity": 47.900001525878906,
       "maxHumidity": 51.599998474121094,
-      "meanHumidity": 49.8,
-      "readings": 3
+      "meanHumidity": 49.9,
+      "readings": 4
     }
   ]
 }
