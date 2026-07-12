@@ -17384,11 +17384,11 @@
       "date": "2026-07-12",
       "minTemp": 26.2,
       "maxTemp": 33,
-      "meanTemp": 29.9,
+      "meanTemp": 30,
       "minHumidity": 48,
       "maxHumidity": 72,
-      "meanHumidity": 60,
-      "readings": 6
+      "meanHumidity": 60.7,
+      "readings": 9
     }
   ]
 }
