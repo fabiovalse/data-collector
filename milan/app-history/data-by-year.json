@@ -17394,11 +17394,11 @@
       "date": "2026-07-13",
       "minTemp": 28.3,
       "maxTemp": 34.4,
-      "meanTemp": 31.2,
+      "meanTemp": 30.7,
       "minHumidity": 57,
-      "maxHumidity": 65,
-      "meanHumidity": 61,
-      "readings": 6
+      "maxHumidity": 66,
+      "meanHumidity": 62.7,
+      "readings": 9
     }
   ]
 }
