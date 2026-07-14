@@ -17393,10 +17393,10 @@
     "date": "2026-07-14",
     "minTemp": 27.7,
     "maxTemp": 35.3,
-    "meanTemp": 31.5,
+    "meanTemp": 31.6,
     "minHumidity": 54,
     "maxHumidity": 67,
-    "meanHumidity": 60.5,
-    "readings": 6
+    "meanHumidity": 59,
+    "readings": 9
   }
 ]
