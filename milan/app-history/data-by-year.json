@@ -17412,13 +17412,13 @@
     },
     {
       "date": "2026-07-15",
-      "minTemp": 27.7,
+      "minTemp": 25.2,
       "maxTemp": 35,
-      "meanTemp": 31.7,
+      "meanTemp": 29.9,
       "minHumidity": 45,
-      "maxHumidity": 65,
-      "meanHumidity": 55,
-      "readings": 6
+      "maxHumidity": 73,
+      "meanHumidity": 61,
+      "readings": 9
     }
   ]
 }
