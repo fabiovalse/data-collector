@@ -5256,13 +5256,13 @@
     },
     {
       "date": "2026-07-17",
-      "minTemp": 30.5,
+      "minTemp": 29.399999618530273,
       "maxTemp": 30.5,
-      "meanTemp": 30.5,
+      "meanTemp": 29.9,
       "minHumidity": 51.599998474121094,
-      "maxHumidity": 51.599998474121094,
-      "meanHumidity": 51.6,
-      "readings": 1
+      "maxHumidity": 54.400001525878906,
+      "meanHumidity": 53,
+      "readings": 2
     }
   ]
 }
