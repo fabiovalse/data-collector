@@ -5258,11 +5258,11 @@
       "date": "2026-07-17",
       "minTemp": 29.399999618530273,
       "maxTemp": 30.5,
-      "meanTemp": 29.9,
+      "meanTemp": 29.8,
       "minHumidity": 51.599998474121094,
       "maxHumidity": 54.400001525878906,
-      "meanHumidity": 53,
-      "readings": 2
+      "meanHumidity": 52.7,
+      "readings": 3
     }
   ]
 }
