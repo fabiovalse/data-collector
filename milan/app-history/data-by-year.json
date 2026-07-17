@@ -17433,12 +17433,12 @@
     {
       "date": "2026-07-17",
       "minTemp": 25.6,
-      "maxTemp": 25.6,
-      "meanTemp": 25.6,
-      "minHumidity": 73,
+      "maxTemp": 31.9,
+      "meanTemp": 28.7,
+      "minHumidity": 47,
       "maxHumidity": 73,
-      "meanHumidity": 73,
-      "readings": 3
+      "meanHumidity": 60,
+      "readings": 6
     }
   ]
 }
