@@ -5267,12 +5267,12 @@
     {
       "date": "2026-07-18",
       "minTemp": 30,
-      "maxTemp": 30.5,
-      "meanTemp": 30.2,
-      "minHumidity": 54.5,
+      "maxTemp": 32.29999923706055,
+      "meanTemp": 30.6,
+      "minHumidity": 36.29999923706055,
       "maxHumidity": 56.5,
-      "meanHumidity": 55.2,
-      "readings": 5
+      "meanHumidity": 52.1,
+      "readings": 6
     }
   ]
 }
