@@ -17443,12 +17443,12 @@
     {
       "date": "2026-07-18",
       "minTemp": 27.7,
-      "maxTemp": 29.1,
-      "meanTemp": 28.3,
-      "minHumidity": 74,
+      "maxTemp": 34.7,
+      "meanTemp": 31.3,
+      "minHumidity": 68,
       "maxHumidity": 74,
-      "meanHumidity": 74,
-      "readings": 3
+      "meanHumidity": 71,
+      "readings": 6
     }
   ]
 }
