@@ -5272,11 +5272,11 @@
   {
     "date": "2026-07-19",
     "minTemp": 26.299999237060547,
-    "maxTemp": 29,
-    "meanTemp": 27.8,
-    "minHumidity": 50.599998474121094,
+    "maxTemp": 29.100000381469727,
+    "meanTemp": 28.1,
+    "minHumidity": 50.29999923706055,
     "maxHumidity": 58.29999923706055,
-    "meanHumidity": 54.7,
-    "readings": 4
+    "meanHumidity": 53.8,
+    "readings": 5
   }
 ]
