@@ -17462,11 +17462,11 @@
   {
     "date": "2026-07-21",
     "minTemp": 24,
-    "maxTemp": 26.1,
-    "meanTemp": 25.2,
-    "minHumidity": 67,
+    "maxTemp": 30.5,
+    "meanTemp": 27.2,
+    "minHumidity": 66,
     "maxHumidity": 67,
-    "meanHumidity": 67,
-    "readings": 3
+    "meanHumidity": 66.5,
+    "readings": 6
   }
 ]
