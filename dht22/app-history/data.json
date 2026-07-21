@@ -5291,12 +5291,12 @@
   },
   {
     "date": "2026-07-21",
-    "minTemp": 28,
+    "minTemp": 27.5,
     "maxTemp": 28,
-    "meanTemp": 28,
-    "minHumidity": 56.5,
+    "meanTemp": 27.8,
+    "minHumidity": 51.900001525878906,
     "maxHumidity": 56.5,
-    "meanHumidity": 56.5,
-    "readings": 1
+    "meanHumidity": 54.2,
+    "readings": 2
   }
 ]
