@@ -5293,10 +5293,10 @@
     "date": "2026-07-21",
     "minTemp": 27.5,
     "maxTemp": 29.799999237060547,
-    "meanTemp": 28.7,
+    "meanTemp": 28.8,
     "minHumidity": 46.900001525878906,
     "maxHumidity": 56.5,
-    "meanHumidity": 49.7,
-    "readings": 6
+    "meanHumidity": 49.9,
+    "readings": 7
   }
 ]
