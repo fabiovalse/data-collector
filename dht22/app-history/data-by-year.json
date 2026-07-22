@@ -5308,11 +5308,11 @@
       "date": "2026-07-22",
       "minTemp": 27.5,
       "maxTemp": 29.799999237060547,
-      "meanTemp": 28.4,
+      "meanTemp": 28.5,
       "minHumidity": 37.400001525878906,
       "maxHumidity": 54.20000076293945,
-      "meanHumidity": 44.9,
-      "readings": 5
+      "meanHumidity": 44.1,
+      "readings": 6
     }
   ]
 }
