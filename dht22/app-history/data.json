@@ -5303,10 +5303,10 @@
     "date": "2026-07-22",
     "minTemp": 27.5,
     "maxTemp": 29.799999237060547,
-    "meanTemp": 28.5,
+    "meanTemp": 28.6,
     "minHumidity": 37.400001525878906,
     "maxHumidity": 54.20000076293945,
-    "meanHumidity": 43.5,
-    "readings": 7
+    "meanHumidity": 43.3,
+    "readings": 8
   }
 ]
