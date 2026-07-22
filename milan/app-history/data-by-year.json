@@ -17483,12 +17483,12 @@
     {
       "date": "2026-07-22",
       "minTemp": 25,
-      "maxTemp": 26.1,
-      "meanTemp": 25.3,
+      "maxTemp": 30,
+      "meanTemp": 27,
       "minHumidity": 49,
-      "maxHumidity": 49,
-      "meanHumidity": 49,
-      "readings": 3
+      "maxHumidity": 55,
+      "meanHumidity": 52,
+      "readings": 6
     }
   ]
 }
