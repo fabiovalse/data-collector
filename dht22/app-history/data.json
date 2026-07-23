@@ -5314,9 +5314,9 @@
     "minTemp": 28.100000381469727,
     "maxTemp": 28.399999618530273,
     "meanTemp": 28.3,
-    "minHumidity": 40.79999923706055,
+    "minHumidity": 40.70000076293945,
     "maxHumidity": 44.599998474121094,
-    "meanHumidity": 43.2,
-    "readings": 3
+    "meanHumidity": 42.6,
+    "readings": 4
   }
 ]
