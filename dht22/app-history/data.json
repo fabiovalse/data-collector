@@ -5323,10 +5323,10 @@
     "date": "2026-07-24",
     "minTemp": 27,
     "maxTemp": 29.600000381469727,
-    "meanTemp": 28.1,
-    "minHumidity": 40,
+    "meanTemp": 28.4,
+    "minHumidity": 39.900001525878906,
     "maxHumidity": 51.5,
-    "meanHumidity": 46.7,
-    "readings": 5
+    "meanHumidity": 45.6,
+    "readings": 6
   }
 ]
