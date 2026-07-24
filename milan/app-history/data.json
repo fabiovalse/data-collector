@@ -17493,10 +17493,10 @@
     "date": "2026-07-24",
     "minTemp": 24.5,
     "maxTemp": 30.8,
-    "meanTemp": 27.3,
+    "meanTemp": 27.1,
     "minHumidity": 56,
     "maxHumidity": 71,
-    "meanHumidity": 63.5,
-    "readings": 6
+    "meanHumidity": 62,
+    "readings": 9
   }
 ]
