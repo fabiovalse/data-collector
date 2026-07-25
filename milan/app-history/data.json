@@ -17502,11 +17502,11 @@
   {
     "date": "2026-07-25",
     "minTemp": 24,
-    "maxTemp": 27,
-    "meanTemp": 25.4,
-    "minHumidity": 55,
+    "maxTemp": 30.5,
+    "meanTemp": 27.7,
+    "minHumidity": 51,
     "maxHumidity": 55,
-    "meanHumidity": 55,
-    "readings": 3
+    "meanHumidity": 53,
+    "readings": 6
   }
 ]
