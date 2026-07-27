@@ -17522,11 +17522,11 @@
   {
     "date": "2026-07-27",
     "minTemp": 28.6,
-    "maxTemp": 30.5,
-    "meanTemp": 29.5,
-    "minHumidity": 87,
+    "maxTemp": 35,
+    "meanTemp": 31.7,
+    "minHumidity": 53,
     "maxHumidity": 87,
-    "meanHumidity": 87,
-    "readings": 3
+    "meanHumidity": 70,
+    "readings": 6
   }
 ]
