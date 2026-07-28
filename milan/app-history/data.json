@@ -17528,5 +17528,15 @@
     "maxHumidity": 87,
     "meanHumidity": 63.7,
     "readings": 9
+  },
+  {
+    "date": "2026-07-28",
+    "minTemp": 26.7,
+    "maxTemp": 28.6,
+    "meanTemp": 27.6,
+    "minHumidity": 75,
+    "maxHumidity": 75,
+    "meanHumidity": 75,
+    "readings": 3
   }
 ]
