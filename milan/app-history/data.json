@@ -17533,10 +17533,10 @@
     "date": "2026-07-28",
     "minTemp": 26.7,
     "maxTemp": 38.8,
-    "meanTemp": 32.3,
+    "meanTemp": 31.4,
     "minHumidity": 35,
     "maxHumidity": 75,
-    "meanHumidity": 55,
-    "readings": 6
+    "meanHumidity": 58.3,
+    "readings": 9
   }
 ]
