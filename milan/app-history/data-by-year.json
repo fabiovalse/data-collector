@@ -17543,12 +17543,12 @@
     {
       "date": "2026-07-28",
       "minTemp": 26.7,
-      "maxTemp": 28.6,
-      "meanTemp": 27.6,
-      "minHumidity": 75,
+      "maxTemp": 38.8,
+      "meanTemp": 32.3,
+      "minHumidity": 35,
       "maxHumidity": 75,
-      "meanHumidity": 75,
-      "readings": 3
+      "meanHumidity": 55,
+      "readings": 6
     }
   ]
 }
