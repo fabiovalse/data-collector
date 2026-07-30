@@ -17553,10 +17553,10 @@
     "date": "2026-07-30",
     "minTemp": 29.4,
     "maxTemp": 40.5,
-    "meanTemp": 35.1,
+    "meanTemp": 34.2,
     "minHumidity": 33,
     "maxHumidity": 70,
-    "meanHumidity": 51.5,
-    "readings": 6
+    "meanHumidity": 54.3,
+    "readings": 9
   }
 ]
