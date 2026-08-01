@@ -5402,11 +5402,11 @@
   {
     "date": "2026-08-01",
     "minTemp": 31.299999237060547,
-    "maxTemp": 31.299999237060547,
-    "meanTemp": 31.3,
-    "minHumidity": 48.400001525878906,
+    "maxTemp": 31.5,
+    "meanTemp": 31.4,
+    "minHumidity": 47.900001525878906,
     "maxHumidity": 48.70000076293945,
-    "meanHumidity": 48.6,
-    "readings": 2
+    "meanHumidity": 48.3,
+    "readings": 3
   }
 ]
