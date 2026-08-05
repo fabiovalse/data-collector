@@ -17623,12 +17623,12 @@
     {
       "date": "2026-08-05",
       "minTemp": 29.4,
-      "maxTemp": 32.8,
-      "meanTemp": 30.9,
-      "minHumidity": 63,
+      "maxTemp": 37.8,
+      "meanTemp": 34.1,
+      "minHumidity": 61,
       "maxHumidity": 63,
-      "meanHumidity": 63,
-      "readings": 3
+      "meanHumidity": 62,
+      "readings": 6
     }
   ]
 }
