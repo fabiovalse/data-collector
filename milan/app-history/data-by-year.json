@@ -17633,12 +17633,12 @@
     {
       "date": "2026-08-06",
       "minTemp": 30.5,
-      "maxTemp": 32.8,
-      "meanTemp": 31.5,
+      "maxTemp": 38,
+      "meanTemp": 34.6,
       "minHumidity": 53,
-      "maxHumidity": 53,
-      "meanHumidity": 53,
-      "readings": 3
+      "maxHumidity": 57,
+      "meanHumidity": 55,
+      "readings": 6
     }
   ]
 }
