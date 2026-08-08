@@ -17642,11 +17642,11 @@
   {
     "date": "2026-08-08",
     "minTemp": 25.5,
-    "maxTemp": 26.8,
-    "meanTemp": 26.1,
-    "minHumidity": 74,
+    "maxTemp": 33.6,
+    "meanTemp": 29.3,
+    "minHumidity": 59,
     "maxHumidity": 74,
-    "meanHumidity": 74,
-    "readings": 3
+    "meanHumidity": 66.5,
+    "readings": 6
   }
 ]
