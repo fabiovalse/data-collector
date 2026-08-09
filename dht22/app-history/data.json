@@ -5482,11 +5482,11 @@
   {
     "date": "2026-08-09",
     "minTemp": 31.399999618530273,
-    "maxTemp": 31.799999237060547,
-    "meanTemp": 31.5,
-    "minHumidity": 46.099998474121094,
+    "maxTemp": 31.899999618530273,
+    "meanTemp": 31.6,
+    "minHumidity": 45.900001525878906,
     "maxHumidity": 50.20000076293945,
-    "meanHumidity": 47,
-    "readings": 8
+    "meanHumidity": 46.9,
+    "readings": 9
   }
 ]
