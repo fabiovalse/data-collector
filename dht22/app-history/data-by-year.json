@@ -5518,11 +5518,11 @@
       "date": "2026-08-12",
       "minTemp": 31.100000381469727,
       "maxTemp": 31.399999618530273,
-      "meanTemp": 31.2,
+      "meanTemp": 31.3,
       "minHumidity": 47.099998474121094,
       "maxHumidity": 48.400001525878906,
-      "meanHumidity": 47.5,
-      "readings": 4
+      "meanHumidity": 47.4,
+      "readings": 5
     }
   ]
 }
