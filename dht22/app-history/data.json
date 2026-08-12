@@ -5512,11 +5512,11 @@
   {
     "date": "2026-08-12",
     "minTemp": 31.100000381469727,
-    "maxTemp": 31.200000762939453,
+    "maxTemp": 31.399999618530273,
     "meanTemp": 31.2,
-    "minHumidity": 47.20000076293945,
+    "minHumidity": 47.099998474121094,
     "maxHumidity": 48.400001525878906,
-    "meanHumidity": 47.6,
-    "readings": 3
+    "meanHumidity": 47.5,
+    "readings": 4
   }
 ]
