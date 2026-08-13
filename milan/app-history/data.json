@@ -17693,10 +17693,10 @@
     "date": "2026-08-13",
     "minTemp": 28.3,
     "maxTemp": 35.9,
-    "meanTemp": 32.2,
+    "meanTemp": 32.3,
     "minHumidity": 36,
     "maxHumidity": 50,
-    "meanHumidity": 43,
-    "readings": 6
+    "meanHumidity": 44.3,
+    "readings": 9
   }
 ]
