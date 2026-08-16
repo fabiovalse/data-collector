@@ -17723,10 +17723,10 @@
     "date": "2026-08-16",
     "minTemp": 25.1,
     "maxTemp": 35.8,
-    "meanTemp": 30.3,
+    "meanTemp": 29.7,
     "minHumidity": 33,
     "maxHumidity": 61,
-    "meanHumidity": 47,
-    "readings": 6
+    "meanHumidity": 48.3,
+    "readings": 9
   }
 ]
