@@ -5563,10 +5563,10 @@
     "date": "2026-08-17",
     "minTemp": 26.899999618530273,
     "maxTemp": 31.700000762939453,
-    "meanTemp": 28.3,
+    "meanTemp": 28.4,
     "minHumidity": 44.099998474121094,
     "maxHumidity": 60.599998474121094,
-    "meanHumidity": 53.3,
-    "readings": 13
+    "meanHumidity": 52.9,
+    "readings": 14
   }
 ]
