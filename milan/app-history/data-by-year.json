@@ -17754,11 +17754,11 @@
       "date": "2026-08-18",
       "minTemp": 22.3,
       "maxTemp": 32.8,
-      "meanTemp": 27.5,
-      "minHumidity": 60,
+      "meanTemp": 28.3,
+      "minHumidity": 53,
       "maxHumidity": 74,
-      "meanHumidity": 67,
-      "readings": 6
+      "meanHumidity": 62.3,
+      "readings": 9
     }
   ]
 }
