@@ -17771,12 +17771,12 @@
   },
   {
     "date": "2026-08-21",
-    "minTemp": 18.5,
-    "maxTemp": 19.6,
-    "meanTemp": 19.1,
+    "minTemp": 18.3,
+    "maxTemp": 20.3,
+    "meanTemp": 19.2,
     "minHumidity": 89,
-    "maxHumidity": 89,
-    "meanHumidity": 89,
-    "readings": 3
+    "maxHumidity": 93,
+    "meanHumidity": 91,
+    "readings": 6
   }
 ]
