@@ -17783,10 +17783,10 @@
     "date": "2026-08-22",
     "minTemp": 17.4,
     "maxTemp": 29,
-    "meanTemp": 23.1,
-    "minHumidity": 60,
+    "meanTemp": 23.9,
+    "minHumidity": 40,
     "maxHumidity": 94,
-    "meanHumidity": 77,
-    "readings": 6
+    "meanHumidity": 64.7,
+    "readings": 9
   }
 ]
