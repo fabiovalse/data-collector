@@ -17782,11 +17782,11 @@
   {
     "date": "2026-08-22",
     "minTemp": 17.4,
-    "maxTemp": 19.3,
-    "meanTemp": 18.5,
-    "minHumidity": 94,
+    "maxTemp": 29,
+    "meanTemp": 23.1,
+    "minHumidity": 60,
     "maxHumidity": 94,
-    "meanHumidity": 94,
-    "readings": 3
+    "meanHumidity": 77,
+    "readings": 6
   }
 ]
