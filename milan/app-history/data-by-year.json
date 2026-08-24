@@ -17814,11 +17814,11 @@
       "date": "2026-08-24",
       "minTemp": 22.7,
       "maxTemp": 30.5,
-      "meanTemp": 26.2,
+      "meanTemp": 26.7,
       "minHumidity": 59,
       "maxHumidity": 77,
-      "meanHumidity": 68,
-      "readings": 6
+      "meanHumidity": 65,
+      "readings": 9
     }
   ]
 }
