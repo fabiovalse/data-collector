@@ -17834,11 +17834,11 @@
       "date": "2026-08-26",
       "minTemp": 22.2,
       "maxTemp": 30.6,
-      "meanTemp": 26.3,
+      "meanTemp": 26,
       "minHumidity": 65,
       "maxHumidity": 81,
-      "meanHumidity": 73,
-      "readings": 6
+      "meanHumidity": 73.7,
+      "readings": 9
     }
   ]
 }
