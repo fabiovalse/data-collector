@@ -17862,13 +17862,13 @@
     },
     {
       "date": "2026-08-29",
-      "minTemp": 28.3,
+      "minTemp": 22.2,
       "maxTemp": 30.6,
-      "meanTemp": 29.4,
+      "meanTemp": 26.7,
       "minHumidity": 59,
       "maxHumidity": 59,
       "meanHumidity": 59,
-      "readings": 3
+      "readings": 6
     }
   ]
 }
