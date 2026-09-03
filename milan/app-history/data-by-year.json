@@ -17913,12 +17913,12 @@
     {
       "date": "2026-09-03",
       "minTemp": 27.7,
-      "maxTemp": 30.6,
-      "meanTemp": 29,
-      "minHumidity": 66,
+      "maxTemp": 32.3,
+      "meanTemp": 30.3,
+      "minHumidity": 54,
       "maxHumidity": 66,
-      "meanHumidity": 66,
-      "readings": 3
+      "meanHumidity": 60,
+      "readings": 6
     }
   ]
 }
