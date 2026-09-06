@@ -17931,12 +17931,12 @@
   },
   {
     "date": "2026-09-06",
-    "minTemp": 28.3,
+    "minTemp": 26.2,
     "maxTemp": 33.5,
-    "meanTemp": 30.9,
+    "meanTemp": 29.9,
     "minHumidity": 54,
     "maxHumidity": 62,
-    "meanHumidity": 58,
-    "readings": 6
+    "meanHumidity": 59,
+    "readings": 9
   }
 ]
