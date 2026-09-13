@@ -18002,11 +18002,11 @@
   {
     "date": "2026-09-13",
     "minTemp": 23.8,
-    "maxTemp": 26.2,
-    "meanTemp": 24.9,
-    "minHumidity": 65,
+    "maxTemp": 27.2,
+    "meanTemp": 25.7,
+    "minHumidity": 61,
     "maxHumidity": 65,
-    "meanHumidity": 65,
-    "readings": 3
+    "meanHumidity": 63,
+    "readings": 6
   }
 ]
