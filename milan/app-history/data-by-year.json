@@ -18043,12 +18043,12 @@
     {
       "date": "2026-09-16",
       "minTemp": 23.8,
-      "maxTemp": 25.6,
-      "meanTemp": 24.7,
-      "minHumidity": 68,
+      "maxTemp": 27.9,
+      "meanTemp": 26,
+      "minHumidity": 61,
       "maxHumidity": 68,
-      "meanHumidity": 68,
-      "readings": 3
+      "meanHumidity": 64.5,
+      "readings": 6
     }
   ]
 }
