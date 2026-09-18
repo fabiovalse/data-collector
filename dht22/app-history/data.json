@@ -5722,11 +5722,11 @@
   {
     "date": "2026-09-18",
     "minTemp": 26.799999237060547,
-    "maxTemp": 26.799999237060547,
-    "meanTemp": 26.8,
-    "minHumidity": 52.400001525878906,
+    "maxTemp": 27.200000762939453,
+    "meanTemp": 26.9,
+    "minHumidity": 49.29999923706055,
     "maxHumidity": 57,
-    "meanHumidity": 54.7,
-    "readings": 2
+    "meanHumidity": 52.9,
+    "readings": 3
   }
 ]
