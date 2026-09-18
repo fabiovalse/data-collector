@@ -5728,11 +5728,11 @@
       "date": "2026-09-18",
       "minTemp": 26.799999237060547,
       "maxTemp": 27.200000762939453,
-      "meanTemp": 26.9,
+      "meanTemp": 27,
       "minHumidity": 49.29999923706055,
       "maxHumidity": 57,
-      "meanHumidity": 52.9,
-      "readings": 3
+      "meanHumidity": 52.2,
+      "readings": 4
     }
   ]
 }
