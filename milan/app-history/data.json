@@ -18081,12 +18081,12 @@
   },
   {
     "date": "2026-09-21",
-    "minTemp": 23.4,
+    "minTemp": 18.8,
     "maxTemp": 29.5,
-    "meanTemp": 26.5,
+    "meanTemp": 24.5,
     "minHumidity": 59,
-    "maxHumidity": 62,
-    "meanHumidity": 60.5,
-    "readings": 6
+    "maxHumidity": 77,
+    "meanHumidity": 66,
+    "readings": 9
   }
 ]
