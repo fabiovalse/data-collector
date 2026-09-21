@@ -5753,10 +5753,10 @@
     "date": "2026-09-21",
     "minTemp": 26.700000762939453,
     "maxTemp": 28.5,
-    "meanTemp": 27.7,
+    "meanTemp": 27.6,
     "minHumidity": 36.79999923706055,
     "maxHumidity": 54.900001525878906,
-    "meanHumidity": 47.1,
-    "readings": 4
+    "meanHumidity": 46.9,
+    "readings": 5
   }
 ]
