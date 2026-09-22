@@ -18092,11 +18092,11 @@
   {
     "date": "2026-09-22",
     "minTemp": 21.8,
-    "maxTemp": 24.1,
-    "meanTemp": 22.9,
+    "maxTemp": 25.1,
+    "meanTemp": 23.5,
     "minHumidity": 65,
     "maxHumidity": 65,
     "meanHumidity": 65,
-    "readings": 3
+    "readings": 6
   }
 ]
