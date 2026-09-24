@@ -5782,11 +5782,11 @@
   {
     "date": "2026-09-24",
     "minTemp": 25,
-    "maxTemp": 25.899999618530273,
-    "meanTemp": 25.4,
+    "maxTemp": 26,
+    "meanTemp": 25.6,
     "minHumidity": 41.29999923706055,
     "maxHumidity": 44.400001525878906,
-    "meanHumidity": 42.9,
-    "readings": 2
+    "meanHumidity": 42.7,
+    "readings": 3
   }
 ]
