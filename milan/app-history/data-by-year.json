@@ -18133,12 +18133,12 @@
     {
       "date": "2026-09-25",
       "minTemp": 20.6,
-      "maxTemp": 21.4,
-      "meanTemp": 21,
-      "minHumidity": 76,
+      "maxTemp": 23,
+      "meanTemp": 21.6,
+      "minHumidity": 61,
       "maxHumidity": 76,
-      "meanHumidity": 76,
-      "readings": 3
+      "meanHumidity": 68.5,
+      "readings": 6
     }
   ]
 }
