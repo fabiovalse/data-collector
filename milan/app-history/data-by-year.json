@@ -18143,12 +18143,12 @@
     {
       "date": "2026-09-26",
       "minTemp": 21.2,
-      "maxTemp": 23,
-      "meanTemp": 22.1,
-      "minHumidity": 59,
+      "maxTemp": 24.5,
+      "meanTemp": 22.8,
+      "minHumidity": 56,
       "maxHumidity": 59,
-      "meanHumidity": 59,
-      "readings": 3
+      "meanHumidity": 57.5,
+      "readings": 6
     }
   ]
 }
