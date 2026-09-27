@@ -18142,11 +18142,11 @@
   {
     "date": "2026-09-27",
     "minTemp": 22.9,
-    "maxTemp": 24.5,
-    "meanTemp": 23.6,
-    "minHumidity": 62,
+    "maxTemp": 25.7,
+    "meanTemp": 24.1,
+    "minHumidity": 58,
     "maxHumidity": 62,
-    "meanHumidity": 62,
-    "readings": 3
+    "meanHumidity": 60,
+    "readings": 6
   }
 ]
