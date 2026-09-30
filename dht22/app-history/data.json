@@ -5843,10 +5843,10 @@
     "date": "2026-09-30",
     "minTemp": 25.700000762939453,
     "maxTemp": 26.299999237060547,
-    "meanTemp": 25.9,
+    "meanTemp": 25.8,
     "minHumidity": 42.099998474121094,
-    "maxHumidity": 46.400001525878906,
-    "meanHumidity": 45.1,
-    "readings": 4
+    "maxHumidity": 48.400001525878906,
+    "meanHumidity": 45.8,
+    "readings": 5
   }
 ]
