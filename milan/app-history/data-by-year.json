@@ -18222,13 +18222,13 @@
     },
     {
       "date": "2026-10-04",
-      "minTemp": 22.7,
-      "maxTemp": 24.4,
-      "meanTemp": 23.4,
-      "minHumidity": 56,
+      "minTemp": 22,
+      "maxTemp": 25.2,
+      "meanTemp": 23.6,
+      "minHumidity": 49,
       "maxHumidity": 56,
-      "meanHumidity": 56,
-      "readings": 3
+      "meanHumidity": 52.5,
+      "readings": 6
     }
   ]
 }
