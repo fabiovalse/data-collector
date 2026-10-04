@@ -5882,11 +5882,11 @@
   {
     "date": "2026-10-04",
     "minTemp": 25,
-    "maxTemp": 25.600000381469727,
-    "meanTemp": 25.2,
-    "minHumidity": 37.29999923706055,
+    "maxTemp": 25.799999237060547,
+    "meanTemp": 25.3,
+    "minHumidity": 36.900001525878906,
     "maxHumidity": 40.29999923706055,
-    "meanHumidity": 39.1,
-    "readings": 3
+    "meanHumidity": 38.6,
+    "readings": 4
   }
 ]
