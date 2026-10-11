@@ -5957,12 +5957,12 @@
     {
       "date": "2026-10-11",
       "minTemp": 22.899999618530273,
-      "maxTemp": 23.399999618530273,
-      "meanTemp": 23.1,
+      "maxTemp": 23.600000381469727,
+      "meanTemp": 23.3,
       "minHumidity": 51.900001525878906,
       "maxHumidity": 54.400001525878906,
-      "meanHumidity": 53.2,
-      "readings": 2
+      "meanHumidity": 53.3,
+      "readings": 3
     }
   ]
 }
