@@ -5977,12 +5977,12 @@
     {
       "date": "2026-10-13",
       "minTemp": 23.5,
-      "maxTemp": 23.600000381469727,
-      "meanTemp": 23.6,
-      "minHumidity": 51.70000076293945,
+      "maxTemp": 24,
+      "meanTemp": 23.7,
+      "minHumidity": 45,
       "maxHumidity": 52.20000076293945,
-      "meanHumidity": 52,
-      "readings": 2
+      "meanHumidity": 49.6,
+      "readings": 3
     }
   ]
 }
