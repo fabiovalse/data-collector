@@ -18344,11 +18344,11 @@
       "date": "2026-10-16",
       "minTemp": 18,
       "maxTemp": 20.8,
-      "meanTemp": 19.3,
-      "minHumidity": 80,
+      "meanTemp": 19.4,
+      "minHumidity": 75,
       "maxHumidity": 80,
-      "meanHumidity": 80,
-      "readings": 3
+      "meanHumidity": 77.5,
+      "readings": 6
     }
   ]
 }
