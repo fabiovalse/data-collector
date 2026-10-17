@@ -6016,13 +6016,13 @@
     },
     {
       "date": "2026-10-17",
-      "minTemp": 23.100000381469727,
+      "minTemp": 22.200000762939453,
       "maxTemp": 23.100000381469727,
-      "meanTemp": 23.1,
-      "minHumidity": 58.70000076293945,
+      "meanTemp": 22.7,
+      "minHumidity": 57.29999923706055,
       "maxHumidity": 58.70000076293945,
-      "meanHumidity": 58.7,
-      "readings": 1
+      "meanHumidity": 58,
+      "readings": 2
     }
   ]
 }
