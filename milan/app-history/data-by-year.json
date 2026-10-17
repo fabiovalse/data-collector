@@ -18349,6 +18349,16 @@
       "maxHumidity": 86,
       "meanHumidity": 80.3,
       "readings": 9
+    },
+    {
+      "date": "2026-10-17",
+      "minTemp": 18.8,
+      "maxTemp": 20.7,
+      "meanTemp": 19.7,
+      "minHumidity": 74,
+      "maxHumidity": 74,
+      "meanHumidity": 74,
+      "readings": 3
     }
   ]
 }
