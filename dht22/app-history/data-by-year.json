@@ -6028,11 +6028,11 @@
       "date": "2026-10-18",
       "minTemp": 22.100000381469727,
       "maxTemp": 22.399999618530273,
-      "meanTemp": 22.3,
+      "meanTemp": 22.2,
       "minHumidity": 56.599998474121094,
       "maxHumidity": 63.900001525878906,
-      "meanHumidity": 59.6,
-      "readings": 4
+      "meanHumidity": 59.8,
+      "readings": 5
     }
   ]
 }
