@@ -6088,11 +6088,11 @@
       "date": "2026-10-24",
       "minTemp": 21.899999618530273,
       "maxTemp": 22.200000762939453,
-      "meanTemp": 22.1,
-      "minHumidity": 48.29999923706055,
+      "meanTemp": 22,
+      "minHumidity": 37.20000076293945,
       "maxHumidity": 49.599998474121094,
-      "meanHumidity": 48.9,
-      "readings": 2
+      "meanHumidity": 45,
+      "readings": 3
     }
   ]
 }
