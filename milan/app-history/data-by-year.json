@@ -18482,13 +18482,13 @@
     },
     {
       "date": "2026-10-30",
-      "minTemp": 11.6,
+      "minTemp": 10,
       "maxTemp": 18.3,
-      "meanTemp": 15.3,
+      "meanTemp": 14,
       "minHumidity": 71,
-      "maxHumidity": 84,
-      "meanHumidity": 77.5,
-      "readings": 6
+      "maxHumidity": 91,
+      "meanHumidity": 82,
+      "readings": 9
     }
   ]
 }
