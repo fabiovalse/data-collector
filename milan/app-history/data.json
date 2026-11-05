@@ -18531,12 +18531,12 @@
   },
   {
     "date": "2026-11-05",
-    "minTemp": 13.4,
+    "minTemp": 8.3,
     "maxTemp": 15.6,
-    "meanTemp": 14.4,
+    "meanTemp": 12,
     "minHumidity": 62,
-    "maxHumidity": 62,
-    "meanHumidity": 62,
-    "readings": 3
+    "maxHumidity": 82,
+    "meanHumidity": 72,
+    "readings": 6
   }
 ]
