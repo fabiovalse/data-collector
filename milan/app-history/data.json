@@ -18551,12 +18551,12 @@
   },
   {
     "date": "2026-11-07",
-    "minTemp": 9,
+    "minTemp": 8.4,
     "maxTemp": 10.5,
-    "meanTemp": 9.8,
+    "meanTemp": 9.6,
     "minHumidity": 87,
-    "maxHumidity": 87,
-    "meanHumidity": 87,
-    "readings": 3
+    "maxHumidity": 92,
+    "meanHumidity": 89.5,
+    "readings": 6
   }
 ]
