@@ -6132,11 +6132,11 @@
   {
     "date": "2026-11-13",
     "minTemp": 21.5,
-    "maxTemp": 21.600000381469727,
+    "maxTemp": 21.700000762939453,
     "meanTemp": 21.6,
     "minHumidity": 56.70000076293945,
     "maxHumidity": 56.900001525878906,
     "meanHumidity": 56.8,
-    "readings": 3
+    "readings": 4
   }
 ]
