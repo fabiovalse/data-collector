@@ -6167,12 +6167,12 @@
     {
       "date": "2026-11-16",
       "minTemp": 20.799999237060547,
-      "maxTemp": 21,
-      "meanTemp": 20.9,
+      "maxTemp": 21.399999618530273,
+      "meanTemp": 21.1,
       "minHumidity": 44.900001525878906,
-      "maxHumidity": 47.79999923706055,
-      "meanHumidity": 46.4,
-      "readings": 2
+      "maxHumidity": 52.29999923706055,
+      "meanHumidity": 48.3,
+      "readings": 3
     }
   ]
 }
