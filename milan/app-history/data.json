@@ -18683,10 +18683,10 @@
     "date": "2026-11-20",
     "minTemp": 5.6,
     "maxTemp": 14.5,
-    "meanTemp": 9.7,
+    "meanTemp": 8.7,
     "minHumidity": 79,
     "maxHumidity": 93,
-    "meanHumidity": 86,
-    "readings": 6
+    "meanHumidity": 87.7,
+    "readings": 9
   }
 ]
