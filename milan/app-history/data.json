@@ -18682,11 +18682,11 @@
   {
     "date": "2026-11-20",
     "minTemp": 5.6,
-    "maxTemp": 7.3,
-    "meanTemp": 6.5,
-    "minHumidity": 93,
+    "maxTemp": 14.5,
+    "meanTemp": 9.7,
+    "minHumidity": 79,
     "maxHumidity": 93,
-    "meanHumidity": 93,
-    "readings": 3
+    "meanHumidity": 86,
+    "readings": 6
   }
 ]
