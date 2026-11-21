@@ -6217,12 +6217,12 @@
     {
       "date": "2026-11-21",
       "minTemp": 20.5,
-      "maxTemp": 20.700000762939453,
-      "meanTemp": 20.6,
+      "maxTemp": 21.100000381469727,
+      "meanTemp": 20.8,
       "minHumidity": 48.5,
-      "maxHumidity": 49.900001525878906,
-      "meanHumidity": 49.2,
-      "readings": 2
+      "maxHumidity": 51,
+      "meanHumidity": 49.8,
+      "readings": 3
     }
   ]
 }
