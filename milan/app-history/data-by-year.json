@@ -18753,12 +18753,12 @@
     {
       "date": "2026-11-26",
       "minTemp": 7.2,
-      "maxTemp": 8.4,
-      "meanTemp": 7.7,
-      "minHumidity": 94,
+      "maxTemp": 10.2,
+      "meanTemp": 8.6,
+      "minHumidity": 92,
       "maxHumidity": 94,
-      "meanHumidity": 94,
-      "readings": 3
+      "meanHumidity": 93,
+      "readings": 6
     }
   ]
 }
